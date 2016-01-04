@@ -1,0 +1,852 @@
+
+#EXTM3U
+
+#EXTINF:4335, Edo Caroe en Olmue
+rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales" -  LA RED
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales" -  UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 360p
+rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn360p
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 240p
+rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 160p
+rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales" -  MEGA HD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales" -  MEGA
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales" -  MEGA
+http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales" -  CHV (432p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales" -  CHV (352p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales" -  CHV andr
+rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
+
+#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="Canales Nacionales" -  Canal 13 
+rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
+
+#EXTINF:0, tvg-logo="13c" group-title="Canales Nacionales" -  13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
+#EXTINF:0, tvg-logo="TV chile" group-title="Canales Nacionales" -  TV Chile 240p
+rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
+
+#EXTINF:0, tvg-logo="TV chile" group-title="Canales Nacionales" -  TV Chile 360p
+rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
+
+
+#EXTINF:0, tvg-logo="HISTORY sd1" group-title="Canales Internacionales" -  HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="HISTORY sd2" group-title="Canales Internacionales" -  HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="HISTORY normal" group-title="Canales Internacionales" -  HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="HISTORY HD" group-title="Canales Internacionales" -  HISTORY HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+#EXTINF:0, tvg-logo="DISCOVERY THEATER sd" group-title="Canales Internacionales" -  DISCOVERY THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="DISCOVERY THEATER sd2" group-title="Canales Internacionales" -  DISCOVERY THEATER
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="DISCOVERY THEATERnormal" group-title="Canales Internacionales" -  DISCOVERY THEATER 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="DISCOVERY THEATER HD" group-title="Canales Internacionales" -  DISCOVERY THEATER HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+#EXTINF:0, tvg-logo="NATGEO WILD sd" group-title="Canales Internacionales" -  NATGEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="NATGEO WILD sd2" group-title="Canales Internacionales" -  NATGEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="NATGEO WILD normal" group-title="Canales Internacionales" -  NATGEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, tvg-logo="NATGEO WILD HD" group-title="Canales Internacionales" -  NATGEO WILD HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY WORLD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY WORLD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY WORLD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY WORLD HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1  
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CHANNEL HD
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL HD 
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL HD 
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  Warner
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  Warner 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  Warner HD 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  FOX 
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  vH&H 
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  NATGEO 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  LIFETIME 
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY SCIENCE 
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CIVILIZATION 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY TURBO 
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TLC 
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  WOBI 
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  EL FINANCIERO BLOOMERANG 
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY THEATER HD 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  HISTORY HD 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  NATGEO WILD HD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY WORLD HD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CHANNEL HD 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET HD 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  H&H HD 
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  NATGEO HD 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  LIFETIME HD 
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY SCIENCE HD 
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY CIVILIZATION HD 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISCOVERY TURBO HD 
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TLC HD 
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  WOBI HD 
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  EL FINANCIERO BLOOMERANG HD 
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN + 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN 3 
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX SPORTS 
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX SPORTS 2 
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  PX 
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN 2 
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN + HD 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN 3 HD 
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX SPORTS HD 
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX SPORTS 2 HD 
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  PX HD 
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN HD 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ESPN 2 HD 
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+ 
+#EXTINF:0, group-title="Canales Internacionales" -  SONY 
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
+#EXTINF:0, group-title="Canales Internacionales" -  vFX HD 
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  A&E HD 
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AXN HD 
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TRUTV HD 
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  COMEDY CENTRAL 
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  UNICABLE 
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  HOLATV 
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FASHIONTV 
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZCORAZON 
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0, group-title="Canales Internacionales" -  BBC ENTRETAINMENT 
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  E! 
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL 
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  SYFY 
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ID 
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TNT SERIES 
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  EL GOURMET 
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  GARAGE TV 
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  GLITZ 
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOXLIFE 
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DISTRITO COMEDIA 
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TBS 
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TLNOVELAS 
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  tve 
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL DE LAS ESTRELLAS 
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL 5 
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZTECA 7 
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  GALAVISION 
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ONCE TV 
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZTECA 13 
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL 40 
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  MULTIMEDIOS TV 
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0,#EXTINF:4.004 -  group-title="Canales Internacionales", Televisión Mexiquense 
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1 
+#EXTINF:0, group-title="Canales Internacionales" -  Telemundo 
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZCLIC 
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL DE LAS ESTRELLAS HD 
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL 5 HD 
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZTECA 7 HD 
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  GALAVISION HD 
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  ONCE TV HD 
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZTECA 13 HD 
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CANAL 40 HD 
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  MULTIMEDIOS TV HD 
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZCLIC HD 
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX 1 HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX ACTION HD 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZCINEMA 
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CINECANAL 
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TNT 
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  GOLDEN 
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FILMZONE 
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  DEPELICULA 
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AMC 
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  SPACE 
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOXCINEMA 
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOXCLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CINECANAL 
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CINEMAX 
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TNT 
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  EDGE 
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AMC 
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  SPACE 
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  STUDIOUNIVERSAL 
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0,I. group-title="Canales Internacionales" -  SAT 
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, MBC HD -  
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8 
+#EXTINF:0, MBC ACTION -  
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8 
+#EXTINF:0, MBC BOLLYWOOD -  
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8 
+#EXTINF:0, MBC MAX2 -  
+http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8 
+#EXTINF:0, MBC MAX -  
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8 
+#EXTINF:0, MBC 2 -  
+http://63.237.48.23/ios/MBC2/MBC2.m3u8 
+#EXTINF:0, MBC 4 -  
+http://63.237.48.3/ios/MBC_4/MBC_4.m3u8 
+#EXTINF:0, MBC 4 -  
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8 
+#EXTINF:0, MBC ACTION -  
+http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8 
+#EXTINF:0, MBC ACTION 2 -  
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:0, group-title="Canales Musica" -  MTV LIVE 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  TELEHIT 
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  VHR 
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  MTV 
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  MTV HITS 
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  1CLASSICS 
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  RITMOSON 
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  BANDAMAX 
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  Kiss tv 
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live 
+#EXTINF:0, group-title="Canales Musica" -  A-ONE 
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0,#EXTINF:1 -  group-title="Canales Musica", VOX TV 
+rtmp://94.23.95.13/live2/vox/vox_360p 
+#EXTINF:0, group-title="Canales Musica" -  MTV LIVE HD 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  TELEHIT HD 
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  VHR HD 
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  MTV HD 
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  MTV HITS HD 
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  1CLASSICS HD 
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  RITMOSON HD 
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Musica" -  BANDAMAX HD 
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, group-title="Deportes" -  beIN Sports 1 HD
+http://50.7.69.138:8128/hls/bein1hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 2 HD
+http://50.7.69.138:8128/hls/bein2hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 3 HD
+http://50.7.69.138:8128/hls/bein3hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 4 HD
+http://50.7.69.138:8128/hls/bein4hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 5 HD
+http://50.7.69.138:8128/hls/bein5hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 6 HD
+http://50.7.69.138:8128/hls/bein6hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 7 HD
+http://50.7.69.138:8128/hls/bein7hd.m3u8
+#EXTINF:0, vbeIN Sports 8 HD
+http://50.7.69.138:8128/hls/bein8hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 9 HD
+http://50.7.69.138:8128/hls/bein9hd.m3u8
+#EXTINF:0, group-title="Deportes" -  beIN Sports 10 HD
+http://50.7.69.138:8128/hls/bein10hd.m3u8
+#EXTINF:0, tvg-logo="CS Sex +18 ADULT mmsh" group-title="ETC canales" -   CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:0, tvg-logo="Bella club" group-title="ETC canales" -  Bella Club
+http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
+#EXTINF:0, tvg-logo="powergirls" group-title="ETC canales" -  powergirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:0, tvg-logo="Jasmin TV Erotic" group-title="ETC canales" -  Jasmin TV Erotic
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  -[COLOR red]Radios Chilenas[/COLOR]-
+http://127.0.0.1
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Imagina
+http://cast3.serverhost.cl:8764
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Concierto
+http://4323.live.streamtheworld.com/CONCIERTO_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Futuro
+http://4323.live.streamtheworld.com/FUTURO_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Duna
+rtmp://radio.cl.digitalproserver.com:443/duna/dunalive/dunav2.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Cooperativa
+http://www.cooperativa.cl/noticias/prontus/player_streaming/chile.m3u
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radioactiva
+http://4323.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Universo
+rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FM Tiempo
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Carolina
+rtmp://radio.cl.digitalproserver.com:443/carolinafm/carolinafmlive/carolinafm.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Bio-Bio la radio
+rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Los 40 Principales
+http://4323.live.streamtheworld.com/LOS40_CHILE_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  ADN
+http://4323.live.streamtheworld.com/ADN_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Uno
+http://7299.live.streamtheworld.com/RADIO_UNO_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Disco
+http://77.68.54.175:8012
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FM Dos
+http://1071.live.streamtheworld.com/FMDOS_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  U. de Chile
+http://stream.radio.uchile.cl
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Horizonte
+http://radio.cl.mediastre.am/horizonte.aac
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Contacto
+http://184.107.188.34:8697
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Paula
+http://tunein.digitalproserver.com/paulafm.mp3
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Pudahuel
+http://4323.live.streamtheworld.com/PUDAHUEL_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Top
+http://radio.cl.mediastre.am/top.aac
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Romantica
+http://tunein.digitalproserver.com/romanticabb.mp3
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Efecto
+http://stream.radioefecto.com:8000/stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Digital FM
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio Sol
+http://69.64.49.28:8000/
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio Corazon
+http://7349.live.streamtheworld.com/CORAZON_SC
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Beethoven
+rtmp://radiocl.digitalproserver.com:443/beethovenfm/beethovenfmlive/beethovenfm.stream
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FMBox
+http://stream.fmbox.cl:9994
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Amanda
+http://amanda.cmtelcom.com/amanda128
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Positiva
+http://mimix.mercurio.cl:8000/positivafm
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Rockaxis
+http://radio.cl.mediastre.am/rockaxis.aac?type=.flv
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Galaxia
+http://rv3.denialstream.com:8030/;stream/1.mp3
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Nuevo Mundo
+http://184.107.179.162:9364
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio El Carbon
+http://tunein.digitalproserver.com/el_carbonbb.aac
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Radio Candela
+http://tunein.digitalproserver.com/candelabb.aac
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Trova Radio
+http://streaming.radionomy.com/Trova-Radio---El-sentimiento-hecho-musica
+http://listen.radionomy.com/trova-radio---el-sentimiento-hecho-musica.m3u
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Goth'N'Metal
+http://streaming.radionomy.com/Goth-N-Metal
+http://listen.radionomy.com/goth-n-metal.m3u
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Deephouse
+http://streaming.radionomy.com/DeepHouse
+http://listen.radionomy.com/deephouse.m3u
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Radio Mezcalito
+http://streaming.radionomy.com/Radio-Mezcalito
+http://listen.radionomy.com/radio-mezcalito.m3u
+#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Antenne Bayern Oldies but Goodies
+http://mp3channels.webradio.antenne.de/oldies-but-goldies
+http://listen.radionomy.com/AntenneBayernOldiesbutGoodies.m3u
+#EXTINF:0,50 SOMBRAS DE GREY
+http://iptvcanales.com/xw/peliculas.php?movie=001
+#EXTINF:0,ALEXANDER Y UN DÍA TERRIBLE -  HORRIBLE, MALOhttp://iptvcanales.com/xw/peliculas.php?movie=002
+#EXTINF:0,APARTAMENTO 1303
+http://iptvcanales.com/xw/peliculas.php?movie=003
+#EXTINF:0,BARELY LETHAL (2015)
+http://iptvcanales.com/xw/peliculas.php?movie=004
+#EXTINF:0,BUSQUEDA IMPLACABLE 1
+http://iptvcanales.com/xw/peliculas.php?movie=005
+#EXTINF:0,CAPITAN AMERICA 1
+http://iptvcanales.com/xw/peliculas.php?movie=006
+#EXTINF:0,CAPITAN AMERICA 2
+http://iptvcanales.com/xw/peliculas.php?movie=007
+#EXTINF:0,CARTAS AL CIELO (SUB)
+http://iptvcanales.com/xw/peliculas.php?movie=008
+#EXTINF:0,CHAPIE
+http://iptvcanales.com/xw/peliculas.php?movie=009
+#EXTINF:0,CHEQUE EN BLANCO (1994)
+http://iptvcanales.com/xw/peliculas.php?movie=010
+#EXTINF:0,COLMILLO BLANCO (1991)
+http://iptvcanales.com/xw/peliculas.php?movie=011
+#EXTINF:0,CONFESIONES DE UNA TÍPICA ADOLESCENTE (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=012
+#EXTINF:0,CUENTOS QUE NO SON CUENTO (2008)
+http://iptvcanales.com/xw/peliculas.php?movie=013
+#EXTINF:0,CUERNOS (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=014
+#EXTINF:0,DALE DURO
+http://iptvcanales.com/xw/peliculas.php?movie=015
+#EXTINF:0,DESTINO JUPITER
+http://iptvcanales.com/xw/peliculas.php?movie=016
+#EXTINF:0,DINOSAURIO (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=017
+#EXTINF:0,EL AMANECER DEL PLANETA DE LOS SIMIOS
+http://iptvcanales.com/xw/peliculas.php?movie=018
+#EXTINF:0,EL APRENDIZ DE BRUJO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=019
+#EXTINF:0,EL ARDOR
+http://iptvcanales.com/xw/peliculas.php?movie=020
+#EXTINF:0,EL DIARIO DE LA PRINCESA (2001)
+http://iptvcanales.com/xw/peliculas.php?movie=021
+#EXTINF:0,EL DIARIO DE LA PRINCESA 2 (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=022
+#EXTINF:0,EL GUARDIAN DEL ZOOLOGICO
+http://iptvcanales.com/xw/peliculas.php?movie=023
+#EXTINF:0,EL HOMBRE DE ACERO
+http://iptvcanales.com/xw/peliculas.php?movie=024
+#EXTINF:0,EL JOVEN CORCEL NEGRO (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=025
+#EXTINF:0,EL LLANERO SOLITARIO (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=026
+#EXTINF:0,EL MISTERIO DE LOS EXCAVADORES (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=027
+#EXTINF:0,EL MUNDO MÁGICO DE TERABITHIA (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=028
+#EXTINF:0,EL PRÍNCIPE DE PERSIA: LAS ARENAS DEL TIEMPO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=029
+#EXTINF:0,EL RITUAL
+http://iptvcanales.com/xw/peliculas.php?movie=030
+#EXTINF:0,EL SECRETO DE LA CALABAZA MÁGICA (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=031
+#EXTINF:0,EL SUEÑO DE WALT (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=032
+#EXTINF:0,EN EL BOSQUE (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=033
+#EXTINF:0,EN EL BOSQUE (INTO THE WOODS)
+http://iptvcanales.com/xw/peliculas.php?movie=034
+#EXTINF:0,ENCANTADA (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=035
+#EXTINF:0,ESTE CUERPO NO ES MIO
+http://iptvcanales.com/xw/peliculas.php?movie=036
+#EXTINF:0,FIN DE CURSO (2011)
+http://iptvcanales.com/xw/peliculas.php?movie=037
+#EXTINF:0,FLUBBER (1997)
+http://iptvcanales.com/xw/peliculas.php?movie=038
+#EXTINF:0,FOCUS
+http://iptvcanales.com/xw/peliculas.php?movie=039
+#EXTINF:0,FRANCOTIRADOR
+http://iptvcanales.com/xw/peliculas.php?movie=040
+#EXTINF:0,FRÍO DE PERROS (2002)
+http://iptvcanales.com/xw/peliculas.php?movie=041
+#EXTINF:0,FUERZA G (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=042
+#EXTINF:0,GEORGE DE LA SELVA (1997)
+http://iptvcanales.com/xw/peliculas.php?movie=043
+#EXTINF:0,GIGANTES DE ACERO
+http://iptvcanales.com/xw/peliculas.php?movie=044
+#EXTINF:0,GNOMEO Y JULIETA
+http://iptvcanales.com/xw/peliculas.php?movie=045
+#EXTINF:0,GODZILLA
+http://iptvcanales.com/xw/peliculas.php?movie=046
+#EXTINF:0,HARTS WAR
+http://iptvcanales.com/xw/peliculas.php?movie=047
+#EXTINF:0,HERBIE: A TODA MARCHA (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=048
+#EXTINF:0,HERMOSAS CRIATURAS
+http://iptvcanales.com/xw/peliculas.php?movie=049
+#EXTINF:0,HOMBRES EN GUERRA
+http://iptvcanales.com/xw/peliculas.php?movie=050
+#EXTINF:0,INTERESTELAR 2015
+http://iptvcanales.com/xw/peliculas.php?movie=051
+#EXTINF:0,IRON MAN 3
+http://iptvcanales.com/xw/peliculas.php?movie=052
+#EXTINF:0,JACK Y JILL
+http://iptvcanales.com/xw/peliculas.php?movie=053
+#EXTINF:0,JAMAICA BAJO CERO (1993)
+http://iptvcanales.com/xw/peliculas.php?movie=054
+#EXTINF:0,JIM Y EL DURAZNO GIGANTE (1996)
+http://iptvcanales.com/xw/peliculas.php?movie=055
+#EXTINF:0,JUEGO DE GEMELAS (1998)
+http://iptvcanales.com/xw/peliculas.php?movie=056
+#EXTINF:0,JUEGOS LETAL
+http://iptvcanales.com/xw/peliculas.php?movie=057
+#EXTINF:0,JUMANJI (1995)
+http://iptvcanales.com/xw/peliculas.php?movie=058
+#EXTINF:0,JURASSIC WORLD
+http://iptvcanales.com/xw/peliculas.php?movie=059
+#EXTINF:0,LA DICTADURA PERFECTA
+http://iptvcanales.com/xw/peliculas.php?movie=060
+#EXTINF:0,LA EXTRAÑA VIDA DE TIMOTHY GREEN (2012)
+http://iptvcanales.com/xw/peliculas.php?movie=061
+#EXTINF:0,LA FAMILIA BELIER
+http://iptvcanales.com/xw/peliculas.php?movie=062
+#EXTINF:0,LA HIJA DE MOCTEZUMA
+http://iptvcanales.com/xw/peliculas.php?movie=063
+#EXTINF:0,LA HIJA DE ROBIN HOOD (1991)
+http://iptvcanales.com/xw/peliculas.php?movie=064
+#EXTINF:0,LA LEYENDA DEL TESORO PERDIDO
+http://iptvcanales.com/xw/peliculas.php?movie=065
+#EXTINF:0,LA LEYENDA DEL TESORO PERDIDO 2 (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=066
+#EXTINF:0,LA MONTAÑA EMBRUJADA (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=067
+#EXTINF:0,LA VUELTA AL MUNDO EN 80 DÍAS (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=068
+#EXTINF:0,LAS CRÓNICAS DE NARNIA: EL LEÓN -  LA BRUJA Y EL ROPERO (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=069
+#EXTINF:0,LAS CRÓNICAS DE NARNIA: EL PRÍNCIPE CASPIAN (2008)
+http://iptvcanales.com/xw/peliculas.php?movie=070
+#EXTINF:0,LAS CRÓNICAS DE NARNIA: LA TRAVESÍA DEL VIAJERO DEL ALBA (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=071
+#EXTINF:0,LAS LOCURAS DE KRONK (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=072
+#EXTINF:0,LAS LOCURAS DEL EMPERADOR (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=073
+#EXTINF:0,LAS NOVIAS DE MIS AMIGOS
+http://iptvcanales.com/xw/peliculas.php?movie=074
+#EXTINF:0,LINEA DE EMERGENCIA
+http://iptvcanales.com/xw/peliculas.php?movie=075
+#EXTINF:0,LIZZIE MCGUIRE: ESTRELLA POP (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=076
+#EXTINF:0,LLAMANDO A ECCO (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=077
+#EXTINF:0,LOS INDESTRUCTIBLES 3
+http://iptvcanales.com/xw/peliculas.php?movie=078
+#EXTINF:0,LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
+http://iptvcanales.com/xw/peliculas.php?movie=079
+#EXTINF:0,LO MEJOR DE MI
+http://iptvcanales.com/xw/peliculas.php?movie=080
+#EXTINF:0,LOS TRES CABALLEROS (1944)
+http://iptvcanales.com/xw/peliculas.php?movie=081
+#EXTINF:0,MALDITOS VECINOS
+http://iptvcanales.com/xw/peliculas.php?movie=082
+#EXTINF:0,MALÉFICA (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=083
+#EXTINF:0,MARY POPPINS (1964)
+http://iptvcanales.com/xw/peliculas.php?movie=084
+#EXTINF:0,MENTES PELIGROSAS
+http://iptvcanales.com/xw/peliculas.php?movie=085
+#EXTINF:0,MI ENCUENTRO CONMIGO (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=086
+#EXTINF:0,MIL PALABRAS
+http://iptvcanales.com/xw/peliculas.php?movie=087
+#EXTINF:0,MÚSICA MAESTRO (1946)
+http://iptvcanales.com/xw/peliculas.php?movie=088
+#EXTINF:0,NO SE ACEPTAN DEVOLUCIONES
+http://iptvcanales.com/xw/peliculas.php?movie=089
+#EXTINF:0,OJOS EN EL BOSQUE (1980)
+http://iptvcanales.com/xw/peliculas.php?movie=090
+#EXTINF:0,OZ -  EL PODEROSO (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=091
+#EXTINF:0,PERDIENDO EL NORTE
+http://iptvcanales.com/xw/peliculas.php?movie=092
+#EXTINF:0,PESOS COMPLETOS (1995)
+http://iptvcanales.com/xw/peliculas.php?movie=093
+#EXTINF:0,PIRATAS DEL CARIBE: LA MALDICIÓN DEL PERLA NEGRA (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=094
+#EXTINF:0,PIRATAS DEL CARIBE: EL COFRE DE LA MUERTE (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=095
+#EXTINF:0,PIRATAS DEL CARIBE: EN EL FIN DEL MUNDO (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=096
+#EXTINF:0,PIRATAS DEL CARIBE: NAVEGANDO AGUAS MISTERIOSAS (2011)
+http://iptvcanales.com/xw/peliculas.php?movie=097
+#EXTINF:0,QUE PASO AYER 3
+http://iptvcanales.com/xw/peliculas.php?movie=098
+#EXTINF:0,RAPIDOS Y FURIOSOS 1
+http://iptvcanales.com/xw/peliculas.php?movie=099
+#EXTINF:0,RAPIDOS Y FURIOSOS 2
+http://iptvcanales.com/xw/peliculas.php?movie=100
+#EXTINF:0,RAPIDOS Y FURIOSOS 3
+http://iptvcanales.com/xw/peliculas.php?movie=101
+#EXTINF:0,RAPIDOS Y FURIOSOS 4
+http://iptvcanales.com/xw/peliculas.php?movie=102
+#EXTINF:0,RAPIDOS Y FURIOSOS 5
+http://iptvcanales.com/xw/peliculas.php?movie=103
+#EXTINF:0,RAPIDOS Y FURIOSOS 6
+http://iptvcanales.com/xw/peliculas.php?movie=104
+#EXTINF:0,RAPIDOS Y FURIOSOS 7
+http://iptvcanales.com/xw/peliculas.php?movie=105
+#EXTINF:0,RESCATANDO A PAPA
+http://iptvcanales.com/xw/peliculas.php?movie=106
+#EXTINF:0,RESCATE EN LA ANTÁRTIDA (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=107
+#EXTINF:0,RESIDENT EVIL 1
+http://iptvcanales.com/xw/peliculas.php?movie=108
+#EXTINF:0,RESIDENT EVIL 2
+http://iptvcanales.com/xw/peliculas.php?movie=109
+#EXTINF:0,RESIDENT EVIL 3
+http://iptvcanales.com/xw/peliculas.php?movie=110
+#EXTINF:0,RESIDENT EVIL 4
+http://iptvcanales.com/xw/peliculas.php?movie=111
+#EXTINF:0,RESIDENT EVIL 5
+http://iptvcanales.com/xw/peliculas.php?movie=112
+#EXTINF:0,ROBIN HOOD (1973)
+http://iptvcanales.com/xw/peliculas.php?movie=113
+#EXTINF:0,SECRETARIAT (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=114
+#EXTINF:0,SED DE VENGANZA
+http://iptvcanales.com/xw/peliculas.php?movie=115
+#EXTINF:0,SI DECIDO QUEDARME
+http://iptvcanales.com/xw/peliculas.php?movie=116
+#EXTINF:0,SOLO PARA PAREJAS
+http://iptvcanales.com/xw/peliculas.php?movie=117
+#EXTINF:0,STEP UP ALL IN
+http://iptvcanales.com/xw/peliculas.php?movie=118
+#EXTINF:0,SUEÑOS SOBRE HIELO (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=119
+#EXTINF:0,TAMMY
+http://iptvcanales.com/xw/peliculas.php?movie=120
+#EXTINF:0,TED
+http://iptvcanales.com/xw/peliculas.php?movie=121
+#EXTINF:0,THE GUNMAN: EN LA MIRA (SUBTITULADA)
+http://iptvcanales.com/xw/peliculas.php?movie=122
+#EXTINF:0,THOR 2 (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=123
+#EXTINF:0,TITANES DEL PACIFICO
+http://iptvcanales.com/xw/peliculas.php?movie=124
+#EXTINF:0,TRANSFORMERS 1
+http://iptvcanales.com/xw/peliculas.php?movie=125
+#EXTINF:0,TRANSFORMERS 2
+http://iptvcanales.com/xw/peliculas.php?movie=126
+#EXTINF:0,TRANSFORMERS 3
+http://iptvcanales.com/xw/peliculas.php?movie=127
+#EXTINF:0,UN DESMADRE DE MADRES
+http://iptvcanales.com/xw/peliculas.php?movie=128
+#EXTINF:0,UN DESMADRE DE VIAJE
+http://iptvcanales.com/xw/peliculas.php?movie=129
+#EXTINF:0,UN GOLPE DE TALENTO
+http://iptvcanales.com/xw/peliculas.php?movie=130
+#EXTINF:0,UNA LOCA ENTREVISTA
+http://iptvcanales.com/xw/peliculas.php?movie=131
+#EXTINF:0,WHIPLASH
+http://iptvcanales.com/xw/peliculas.php?movie=132
+#EXTINF:0,X-MEN DIAS DEL FUTURO PASADO
+http://iptvcanales.com/xw/peliculas.php?movie=133
+#EXTINF:0,TRON: EL LEGADO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=134
+#EXTINF:0,VIDA SALVAJE (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=135
+#EXTINF:0,VOLUNTAD DE HIERRO (1994)
+http://iptvcanales.com/xw/peliculas.php?movie=136
+#EXTINF:0,FRANCOTIRADOR
+http://iptvcanales.com/xw/peliculas.php?movie=137
+#EXTINF:0,EL JUGADOR
+http://iptvcanales.com/xw/peliculas.php?movie=138
+#EXTINF:0,EL HOBBIT: UN VIAJE INESPERADO
+http://iptvcanales.com/xw/peliculas.php?movie=139
+#EXTINF:0,EL HOBBIT: LA DESOLACION DE SMAUG
+http://iptvcanales.com/xw/peliculas.php?movie=140
+#EXTINF:0,EL HOBBIT: LA BATALLA DE LOS 5 EJERCITOS
+http://iptvcanales.com/xw/peliculas.php?movie=141
