@@ -1,61 +1,59 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
 #EXTINF:4335, Edo Caroe en Olmue
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales",LA RED 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 360p
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 360p 
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn360p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 240p
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 240p  
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 160p
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 160p 
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
-#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD  
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA 
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA 
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (432p)
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (432p) 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (352p)
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (352p) 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV andr
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV andr 
 rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="Canales Nacionales",Canal 13 
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="Canales Nacionales",Canal 13  
 rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
 
-#EXTINF:0, tvg-logo="13c" group-title="Canales Nacionales",13C
+#EXTINF:0 tvg-logo="13c" group-title="Canales Nacionales",13C 
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0, tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 240p
+#EXTINF:0 tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 240p 
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
 
-#EXTINF:0, tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 360p
+#EXTINF:0 tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 360p 
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
+
 #EXTINF:-1,-Internacionales-
+
 
 #EXTINF:0, tvg-logo="HISTORY sd1" group-title="Canales Internacionales",HISTORY
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -481,14 +479,26 @@ http://50.7.69.138:8128/hls/bein8hd.m3u8
 http://50.7.69.138:8128/hls/bein9hd.m3u8
 #EXTINF:0, group-title="Deportes" -  beIN Sports 10 HD
 http://50.7.69.138:8128/hls/bein10hd.m3u8
+
+
+#EXTINF:-1,-Adultos-
+
+
 #EXTINF:0, tvg-logo="CS Sex +18 ADULT mmsh" group-title="ETC canales" -   CS Sex +18 ADULT mmsh
 mmsh://tv.webmisto.cz:7000
+
 #EXTINF:0, tvg-logo="Bella club" group-title="ETC canales" -  Bella Club
 http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
+
 #EXTINF:0, tvg-logo="powergirls" group-title="ETC canales" -  powergirls
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
 #EXTINF:0, tvg-logo="Jasmin TV Erotic" group-title="ETC canales" -  Jasmin TV Erotic
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+
+#EXTINF:-1,-Radios-
+
 #EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  -[COLOR red]Radios Chilenas[/COLOR]-
 http://127.0.0.1
 #EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Imagina
