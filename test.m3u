@@ -52,10 +52,10 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 
-#EXTINF:-1,-Internacionales-
+#EXTINF:-1,-Internacionales Calidad muy baja-
 
 
-#EXTINF:0 tvg-logo="HISTORY sd1" group-title="Canales Internacionales",HISTORY 
+#EXTINF:0 tvg-logo="HISTORY sd1" group-title="Canales Internacionales Calidad muy baja",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="HISTORY sd2" group-title="Canales Internacionales",HISTORY 
@@ -172,6 +172,20 @@ http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 group-title="Canales Internacionales",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX 1 HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX ACTION HD 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  AZCINEMA 
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0, group-title="Canales Internacionales" -  CINECANAL 
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 #EXTINF:0, group-title="Canales Internacionales" -  FOX 
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
@@ -347,20 +361,7 @@ http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  AZCLIC HD 
 http://200.76.77.237/LIVE/H01/CANAL725/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX 1 HD 
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX ACTION HD 
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX MOVIES HD 
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX CINEMA 
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX CLASSIC 
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  AZCINEMA 
-http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  CINECANAL 
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
 #EXTINF:0, group-title="Canales Internacionales" -  TNT 
 http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  GOLDEN 
@@ -493,7 +494,7 @@ http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr
 #EXTINF:0 tvg-logo="powergirls" group-title="Adultos",Powergirls
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 
-#EXTINF:0 tvg-logo="Jasmin TV Erotic" group-title="Adultos"Jasmin TV Erotic
+#EXTINF:0 tvg-logo="Jasmin TV Erotic" group-title="Adultos",Jasmin TV Erotic
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 
