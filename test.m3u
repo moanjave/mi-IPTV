@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -483,106 +484,146 @@ http://50.7.69.138:8128/hls/bein10hd.m3u8
 #EXTINF:-1,-Adultos-
 
 
-#EXTINF:0, tvg-logo="CS Sex +18 ADULT mmsh" group-title="ETC canales" -   CS Sex +18 ADULT mmsh
+#EXTINF:0 tvg-logo="CS Sex +18 ADULT mmsh" group-title="Adultos",CS Sex +18 ADULT mmsh
 mmsh://tv.webmisto.cz:7000
 
-#EXTINF:0, tvg-logo="Bella club" group-title="ETC canales" -  Bella Club
+#EXTINF:0 tvg-logo="Bella club" group-title="Adultos",Bella Club
 http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
 
-#EXTINF:0, tvg-logo="powergirls" group-title="ETC canales" -  powergirls
+#EXTINF:0 tvg-logo="powergirls" group-title="Adultos",Powergirls
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 
-#EXTINF:0, tvg-logo="Jasmin TV Erotic" group-title="ETC canales" -  Jasmin TV Erotic
+#EXTINF:0 tvg-logo="Jasmin TV Erotic" group-title="Adultos"Jasmin TV Erotic
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 
 #EXTINF:-1,-Radios-
 
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  -[COLOR red]Radios Chilenas[/COLOR]-
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios" -  -[COLOR red]Radios Chilenas[/COLOR]-
 http://127.0.0.1
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Imagina
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Imagina
 http://cast3.serverhost.cl:8764
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Concierto
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Concierto
 http://4323.live.streamtheworld.com/CONCIERTO_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Futuro
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Futuro
 http://4323.live.streamtheworld.com/FUTURO_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Duna
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Duna
 rtmp://radio.cl.digitalproserver.com:443/duna/dunalive/dunav2.stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Cooperativa
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Cooperativa
 http://www.cooperativa.cl/noticias/prontus/player_streaming/chile.m3u
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radioactiva
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radioactiva
 http://4323.live.streamtheworld.com/ACTIVA_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Universo
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Universo
 rtmp://radio.cl.digitalproserver.com:443/universo/universolive/universo937.stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FM Tiempo
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", FM Tiempo
 http://tunein.digitalproserver.com/fmtiempobb.mp3
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Carolina
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Carolina
 rtmp://radio.cl.digitalproserver.com:443/carolinafm/carolinafmlive/carolinafm.stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Bio-Bio la radio
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Bio-Bio la radio
 rtmp://radiocl.digitalproserver.com:443/biobiosantiago/biobiosantiagolive/biobiosantiago.stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Los 40 Principales
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Los 40 Principales
 http://4323.live.streamtheworld.com/LOS40_CHILE_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  ADN
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", ADN
 http://4323.live.streamtheworld.com/ADN_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Uno
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Uno
 http://7299.live.streamtheworld.com/RADIO_UNO_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Disco
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Disco
 http://77.68.54.175:8012
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FM Dos
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", FM Dos
 http://1071.live.streamtheworld.com/FMDOS_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  U. de Chile
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", U. de Chile
 http://stream.radio.uchile.cl
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Horizonte
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Horizonte
 http://radio.cl.mediastre.am/horizonte.aac
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Contacto
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Contacto
 http://184.107.188.34:8697
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Paula
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Paula
 http://tunein.digitalproserver.com/paulafm.mp3
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Pudahuel
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Pudahuel
 http://4323.live.streamtheworld.com/PUDAHUEL_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Top
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Top
 http://radio.cl.mediastre.am/top.aac
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Romantica
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Romantica
 http://tunein.digitalproserver.com/romanticabb.mp3
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Efecto
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Efecto
 http://stream.radioefecto.com:8000/stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Digital FM
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Digital FM
 http://mimix.mercurio.cl:8000/digitalfm
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio Sol
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radio Sol
 http://69.64.49.28:8000/
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio Corazon
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radio Corazon
 http://7349.live.streamtheworld.com/CORAZON_SC
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Beethoven
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Beethoven
 rtmp://radiocl.digitalproserver.com:443/beethovenfm/beethovenfmlive/beethovenfm.stream
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  FMBox
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", FMBox
 http://stream.fmbox.cl:9994
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Amanda
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Amanda
 http://amanda.cmtelcom.com/amanda128
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Positiva
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Positiva
 http://mimix.mercurio.cl:8000/positivafm
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Rockaxis
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Rockaxis
 http://radio.cl.mediastre.am/rockaxis.aac?type=.flv
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Galaxia
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Galaxia
 http://rv3.denialstream.com:8030/;stream/1.mp3
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Nuevo Mundo
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Nuevo Mundo
 http://184.107.179.162:9364
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Chilenas" -  Radio El Carbon
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radio El Carbon
 http://tunein.digitalproserver.com/el_carbonbb.aac
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Radio Candela
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radio Candela
 http://tunein.digitalproserver.com/candelabb.aac
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Trova Radio
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Trova Radio
 http://streaming.radionomy.com/Trova-Radio---El-sentimiento-hecho-musica
 http://listen.radionomy.com/trova-radio---el-sentimiento-hecho-musica.m3u
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Goth'N'Metal
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Goth'N'Metal
 http://streaming.radionomy.com/Goth-N-Metal
 http://listen.radionomy.com/goth-n-metal.m3u
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Deephouse
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Deephouse
 http://streaming.radionomy.com/DeepHouse
 http://listen.radionomy.com/deephouse.m3u
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Radio Mezcalito
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Radio Mezcalito
 http://streaming.radionomy.com/Radio-Mezcalito
 http://listen.radionomy.com/radio-mezcalito.m3u
-#EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Antenne Bayern Oldies but Goodies
+
+#EXTINF:0 radio="true" tvg-logo="" group-title="Radios", Antenne Bayern Oldies but Goodies
 http://mp3channels.webradio.antenne.de/oldies-but-goldies
 http://listen.radionomy.com/AntenneBayernOldiesbutGoodies.m3u
 
