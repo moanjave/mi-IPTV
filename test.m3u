@@ -2,7 +2,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
-
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
 #EXTINF:4335, Edo Caroe en Olmue
