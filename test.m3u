@@ -1,25 +1,28 @@
 
 #EXTM3U
 
-#EXTINF:4335, Edo Caroe en Olmue
-rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
-
-#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales" -  LA RED
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:-1, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 360p
+#EXTINF:4335, Edo Caroe en Olmue
+rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales" -  LA RED
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales" -  UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 360p
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn360p
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 240p
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 240p
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 160p
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" -  TVN 160p
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
-#EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales" -  MEGA HD
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
 #EXTINF:0, tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales" -  MEGA
@@ -569,284 +572,6 @@ http://listen.radionomy.com/radio-mezcalito.m3u
 #EXTINF:0, radio="true" tvg-logo="" group-title="Radios Internet" -  Antenne Bayern Oldies but Goodies
 http://mp3channels.webradio.antenne.de/oldies-but-goldies
 http://listen.radionomy.com/AntenneBayernOldiesbutGoodies.m3u
-#EXTINF:0,50 SOMBRAS DE GREY
-http://iptvcanales.com/xw/peliculas.php?movie=001
-#EXTINF:0,ALEXANDER Y UN DÍA TERRIBLE -  HORRIBLE, MALOhttp://iptvcanales.com/xw/peliculas.php?movie=002
-#EXTINF:0,APARTAMENTO 1303
-http://iptvcanales.com/xw/peliculas.php?movie=003
-#EXTINF:0,BARELY LETHAL (2015)
-http://iptvcanales.com/xw/peliculas.php?movie=004
-#EXTINF:0,BUSQUEDA IMPLACABLE 1
-http://iptvcanales.com/xw/peliculas.php?movie=005
-#EXTINF:0,CAPITAN AMERICA 1
-http://iptvcanales.com/xw/peliculas.php?movie=006
-#EXTINF:0,CAPITAN AMERICA 2
-http://iptvcanales.com/xw/peliculas.php?movie=007
-#EXTINF:0,CARTAS AL CIELO (SUB)
-http://iptvcanales.com/xw/peliculas.php?movie=008
-#EXTINF:0,CHAPIE
-http://iptvcanales.com/xw/peliculas.php?movie=009
-#EXTINF:0,CHEQUE EN BLANCO (1994)
-http://iptvcanales.com/xw/peliculas.php?movie=010
-#EXTINF:0,COLMILLO BLANCO (1991)
-http://iptvcanales.com/xw/peliculas.php?movie=011
-#EXTINF:0,CONFESIONES DE UNA TÍPICA ADOLESCENTE (2004)
-http://iptvcanales.com/xw/peliculas.php?movie=012
-#EXTINF:0,CUENTOS QUE NO SON CUENTO (2008)
-http://iptvcanales.com/xw/peliculas.php?movie=013
-#EXTINF:0,CUERNOS (2013)
-http://iptvcanales.com/xw/peliculas.php?movie=014
-#EXTINF:0,DALE DURO
-http://iptvcanales.com/xw/peliculas.php?movie=015
-#EXTINF:0,DESTINO JUPITER
-http://iptvcanales.com/xw/peliculas.php?movie=016
-#EXTINF:0,DINOSAURIO (2000)
-http://iptvcanales.com/xw/peliculas.php?movie=017
-#EXTINF:0,EL AMANECER DEL PLANETA DE LOS SIMIOS
-http://iptvcanales.com/xw/peliculas.php?movie=018
-#EXTINF:0,EL APRENDIZ DE BRUJO (2010)
-http://iptvcanales.com/xw/peliculas.php?movie=019
-#EXTINF:0,EL ARDOR
-http://iptvcanales.com/xw/peliculas.php?movie=020
-#EXTINF:0,EL DIARIO DE LA PRINCESA (2001)
-http://iptvcanales.com/xw/peliculas.php?movie=021
-#EXTINF:0,EL DIARIO DE LA PRINCESA 2 (2004)
-http://iptvcanales.com/xw/peliculas.php?movie=022
-#EXTINF:0,EL GUARDIAN DEL ZOOLOGICO
-http://iptvcanales.com/xw/peliculas.php?movie=023
-#EXTINF:0,EL HOMBRE DE ACERO
-http://iptvcanales.com/xw/peliculas.php?movie=024
-#EXTINF:0,EL JOVEN CORCEL NEGRO (2003)
-http://iptvcanales.com/xw/peliculas.php?movie=025
-#EXTINF:0,EL LLANERO SOLITARIO (2013)
-http://iptvcanales.com/xw/peliculas.php?movie=026
-#EXTINF:0,EL MISTERIO DE LOS EXCAVADORES (2003)
-http://iptvcanales.com/xw/peliculas.php?movie=027
-#EXTINF:0,EL MUNDO MÁGICO DE TERABITHIA (2005)
-http://iptvcanales.com/xw/peliculas.php?movie=028
-#EXTINF:0,EL PRÍNCIPE DE PERSIA: LAS ARENAS DEL TIEMPO (2010)
-http://iptvcanales.com/xw/peliculas.php?movie=029
-#EXTINF:0,EL RITUAL
-http://iptvcanales.com/xw/peliculas.php?movie=030
-#EXTINF:0,EL SECRETO DE LA CALABAZA MÁGICA (2009)
-http://iptvcanales.com/xw/peliculas.php?movie=031
-#EXTINF:0,EL SUEÑO DE WALT (2013)
-http://iptvcanales.com/xw/peliculas.php?movie=032
-#EXTINF:0,EN EL BOSQUE (2014)
-http://iptvcanales.com/xw/peliculas.php?movie=033
-#EXTINF:0,EN EL BOSQUE (INTO THE WOODS)
-http://iptvcanales.com/xw/peliculas.php?movie=034
-#EXTINF:0,ENCANTADA (2007)
-http://iptvcanales.com/xw/peliculas.php?movie=035
-#EXTINF:0,ESTE CUERPO NO ES MIO
-http://iptvcanales.com/xw/peliculas.php?movie=036
-#EXTINF:0,FIN DE CURSO (2011)
-http://iptvcanales.com/xw/peliculas.php?movie=037
-#EXTINF:0,FLUBBER (1997)
-http://iptvcanales.com/xw/peliculas.php?movie=038
-#EXTINF:0,FOCUS
-http://iptvcanales.com/xw/peliculas.php?movie=039
-#EXTINF:0,FRANCOTIRADOR
-http://iptvcanales.com/xw/peliculas.php?movie=040
-#EXTINF:0,FRÍO DE PERROS (2002)
-http://iptvcanales.com/xw/peliculas.php?movie=041
-#EXTINF:0,FUERZA G (2009)
-http://iptvcanales.com/xw/peliculas.php?movie=042
-#EXTINF:0,GEORGE DE LA SELVA (1997)
-http://iptvcanales.com/xw/peliculas.php?movie=043
-#EXTINF:0,GIGANTES DE ACERO
-http://iptvcanales.com/xw/peliculas.php?movie=044
-#EXTINF:0,GNOMEO Y JULIETA
-http://iptvcanales.com/xw/peliculas.php?movie=045
-#EXTINF:0,GODZILLA
-http://iptvcanales.com/xw/peliculas.php?movie=046
-#EXTINF:0,HARTS WAR
-http://iptvcanales.com/xw/peliculas.php?movie=047
-#EXTINF:0,HERBIE: A TODA MARCHA (2005)
-http://iptvcanales.com/xw/peliculas.php?movie=048
-#EXTINF:0,HERMOSAS CRIATURAS
-http://iptvcanales.com/xw/peliculas.php?movie=049
-#EXTINF:0,HOMBRES EN GUERRA
-http://iptvcanales.com/xw/peliculas.php?movie=050
-#EXTINF:0,INTERESTELAR 2015
-http://iptvcanales.com/xw/peliculas.php?movie=051
-#EXTINF:0,IRON MAN 3
-http://iptvcanales.com/xw/peliculas.php?movie=052
-#EXTINF:0,JACK Y JILL
-http://iptvcanales.com/xw/peliculas.php?movie=053
-#EXTINF:0,JAMAICA BAJO CERO (1993)
-http://iptvcanales.com/xw/peliculas.php?movie=054
-#EXTINF:0,JIM Y EL DURAZNO GIGANTE (1996)
-http://iptvcanales.com/xw/peliculas.php?movie=055
-#EXTINF:0,JUEGO DE GEMELAS (1998)
-http://iptvcanales.com/xw/peliculas.php?movie=056
-#EXTINF:0,JUEGOS LETAL
-http://iptvcanales.com/xw/peliculas.php?movie=057
-#EXTINF:0,JUMANJI (1995)
-http://iptvcanales.com/xw/peliculas.php?movie=058
-#EXTINF:0,JURASSIC WORLD
-http://iptvcanales.com/xw/peliculas.php?movie=059
-#EXTINF:0,LA DICTADURA PERFECTA
-http://iptvcanales.com/xw/peliculas.php?movie=060
-#EXTINF:0,LA EXTRAÑA VIDA DE TIMOTHY GREEN (2012)
-http://iptvcanales.com/xw/peliculas.php?movie=061
-#EXTINF:0,LA FAMILIA BELIER
-http://iptvcanales.com/xw/peliculas.php?movie=062
-#EXTINF:0,LA HIJA DE MOCTEZUMA
-http://iptvcanales.com/xw/peliculas.php?movie=063
-#EXTINF:0,LA HIJA DE ROBIN HOOD (1991)
-http://iptvcanales.com/xw/peliculas.php?movie=064
-#EXTINF:0,LA LEYENDA DEL TESORO PERDIDO
-http://iptvcanales.com/xw/peliculas.php?movie=065
-#EXTINF:0,LA LEYENDA DEL TESORO PERDIDO 2 (2007)
-http://iptvcanales.com/xw/peliculas.php?movie=066
-#EXTINF:0,LA MONTAÑA EMBRUJADA (2009)
-http://iptvcanales.com/xw/peliculas.php?movie=067
-#EXTINF:0,LA VUELTA AL MUNDO EN 80 DÍAS (2004)
-http://iptvcanales.com/xw/peliculas.php?movie=068
-#EXTINF:0,LAS CRÓNICAS DE NARNIA: EL LEÓN -  LA BRUJA Y EL ROPERO (2005)
-http://iptvcanales.com/xw/peliculas.php?movie=069
-#EXTINF:0,LAS CRÓNICAS DE NARNIA: EL PRÍNCIPE CASPIAN (2008)
-http://iptvcanales.com/xw/peliculas.php?movie=070
-#EXTINF:0,LAS CRÓNICAS DE NARNIA: LA TRAVESÍA DEL VIAJERO DEL ALBA (2010)
-http://iptvcanales.com/xw/peliculas.php?movie=071
-#EXTINF:0,LAS LOCURAS DE KRONK (2005)
-http://iptvcanales.com/xw/peliculas.php?movie=072
-#EXTINF:0,LAS LOCURAS DEL EMPERADOR (2000)
-http://iptvcanales.com/xw/peliculas.php?movie=073
-#EXTINF:0,LAS NOVIAS DE MIS AMIGOS
-http://iptvcanales.com/xw/peliculas.php?movie=074
-#EXTINF:0,LINEA DE EMERGENCIA
-http://iptvcanales.com/xw/peliculas.php?movie=075
-#EXTINF:0,LIZZIE MCGUIRE: ESTRELLA POP (2003)
-http://iptvcanales.com/xw/peliculas.php?movie=076
-#EXTINF:0,LLAMANDO A ECCO (2014)
-http://iptvcanales.com/xw/peliculas.php?movie=077
-#EXTINF:0,LOS INDESTRUCTIBLES 3
-http://iptvcanales.com/xw/peliculas.php?movie=078
-#EXTINF:0,LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
-http://iptvcanales.com/xw/peliculas.php?movie=079
-#EXTINF:0,LO MEJOR DE MI
-http://iptvcanales.com/xw/peliculas.php?movie=080
-#EXTINF:0,LOS TRES CABALLEROS (1944)
-http://iptvcanales.com/xw/peliculas.php?movie=081
-#EXTINF:0,MALDITOS VECINOS
-http://iptvcanales.com/xw/peliculas.php?movie=082
-#EXTINF:0,MALÉFICA (2014)
-http://iptvcanales.com/xw/peliculas.php?movie=083
-#EXTINF:0,MARY POPPINS (1964)
-http://iptvcanales.com/xw/peliculas.php?movie=084
-#EXTINF:0,MENTES PELIGROSAS
-http://iptvcanales.com/xw/peliculas.php?movie=085
-#EXTINF:0,MI ENCUENTRO CONMIGO (2000)
-http://iptvcanales.com/xw/peliculas.php?movie=086
-#EXTINF:0,MIL PALABRAS
-http://iptvcanales.com/xw/peliculas.php?movie=087
-#EXTINF:0,MÚSICA MAESTRO (1946)
-http://iptvcanales.com/xw/peliculas.php?movie=088
-#EXTINF:0,NO SE ACEPTAN DEVOLUCIONES
-http://iptvcanales.com/xw/peliculas.php?movie=089
-#EXTINF:0,OJOS EN EL BOSQUE (1980)
-http://iptvcanales.com/xw/peliculas.php?movie=090
-#EXTINF:0,OZ -  EL PODEROSO (2013)
-http://iptvcanales.com/xw/peliculas.php?movie=091
-#EXTINF:0,PERDIENDO EL NORTE
-http://iptvcanales.com/xw/peliculas.php?movie=092
-#EXTINF:0,PESOS COMPLETOS (1995)
-http://iptvcanales.com/xw/peliculas.php?movie=093
-#EXTINF:0,PIRATAS DEL CARIBE: LA MALDICIÓN DEL PERLA NEGRA (2003)
-http://iptvcanales.com/xw/peliculas.php?movie=094
-#EXTINF:0,PIRATAS DEL CARIBE: EL COFRE DE LA MUERTE (2006)
-http://iptvcanales.com/xw/peliculas.php?movie=095
-#EXTINF:0,PIRATAS DEL CARIBE: EN EL FIN DEL MUNDO (2007)
-http://iptvcanales.com/xw/peliculas.php?movie=096
-#EXTINF:0,PIRATAS DEL CARIBE: NAVEGANDO AGUAS MISTERIOSAS (2011)
-http://iptvcanales.com/xw/peliculas.php?movie=097
-#EXTINF:0,QUE PASO AYER 3
-http://iptvcanales.com/xw/peliculas.php?movie=098
-#EXTINF:0,RAPIDOS Y FURIOSOS 1
-http://iptvcanales.com/xw/peliculas.php?movie=099
-#EXTINF:0,RAPIDOS Y FURIOSOS 2
-http://iptvcanales.com/xw/peliculas.php?movie=100
-#EXTINF:0,RAPIDOS Y FURIOSOS 3
-http://iptvcanales.com/xw/peliculas.php?movie=101
-#EXTINF:0,RAPIDOS Y FURIOSOS 4
-http://iptvcanales.com/xw/peliculas.php?movie=102
-#EXTINF:0,RAPIDOS Y FURIOSOS 5
-http://iptvcanales.com/xw/peliculas.php?movie=103
-#EXTINF:0,RAPIDOS Y FURIOSOS 6
-http://iptvcanales.com/xw/peliculas.php?movie=104
-#EXTINF:0,RAPIDOS Y FURIOSOS 7
-http://iptvcanales.com/xw/peliculas.php?movie=105
-#EXTINF:0,RESCATANDO A PAPA
-http://iptvcanales.com/xw/peliculas.php?movie=106
-#EXTINF:0,RESCATE EN LA ANTÁRTIDA (2006)
-http://iptvcanales.com/xw/peliculas.php?movie=107
-#EXTINF:0,RESIDENT EVIL 1
-http://iptvcanales.com/xw/peliculas.php?movie=108
-#EXTINF:0,RESIDENT EVIL 2
-http://iptvcanales.com/xw/peliculas.php?movie=109
-#EXTINF:0,RESIDENT EVIL 3
-http://iptvcanales.com/xw/peliculas.php?movie=110
-#EXTINF:0,RESIDENT EVIL 4
-http://iptvcanales.com/xw/peliculas.php?movie=111
-#EXTINF:0,RESIDENT EVIL 5
-http://iptvcanales.com/xw/peliculas.php?movie=112
-#EXTINF:0,ROBIN HOOD (1973)
-http://iptvcanales.com/xw/peliculas.php?movie=113
-#EXTINF:0,SECRETARIAT (2010)
-http://iptvcanales.com/xw/peliculas.php?movie=114
-#EXTINF:0,SED DE VENGANZA
-http://iptvcanales.com/xw/peliculas.php?movie=115
-#EXTINF:0,SI DECIDO QUEDARME
-http://iptvcanales.com/xw/peliculas.php?movie=116
-#EXTINF:0,SOLO PARA PAREJAS
-http://iptvcanales.com/xw/peliculas.php?movie=117
-#EXTINF:0,STEP UP ALL IN
-http://iptvcanales.com/xw/peliculas.php?movie=118
-#EXTINF:0,SUEÑOS SOBRE HIELO (2005)
-http://iptvcanales.com/xw/peliculas.php?movie=119
-#EXTINF:0,TAMMY
-http://iptvcanales.com/xw/peliculas.php?movie=120
-#EXTINF:0,TED
-http://iptvcanales.com/xw/peliculas.php?movie=121
-#EXTINF:0,THE GUNMAN: EN LA MIRA (SUBTITULADA)
-http://iptvcanales.com/xw/peliculas.php?movie=122
-#EXTINF:0,THOR 2 (2013)
-http://iptvcanales.com/xw/peliculas.php?movie=123
-#EXTINF:0,TITANES DEL PACIFICO
-http://iptvcanales.com/xw/peliculas.php?movie=124
-#EXTINF:0,TRANSFORMERS 1
-http://iptvcanales.com/xw/peliculas.php?movie=125
-#EXTINF:0,TRANSFORMERS 2
-http://iptvcanales.com/xw/peliculas.php?movie=126
-#EXTINF:0,TRANSFORMERS 3
-http://iptvcanales.com/xw/peliculas.php?movie=127
-#EXTINF:0,UN DESMADRE DE MADRES
-http://iptvcanales.com/xw/peliculas.php?movie=128
-#EXTINF:0,UN DESMADRE DE VIAJE
-http://iptvcanales.com/xw/peliculas.php?movie=129
-#EXTINF:0,UN GOLPE DE TALENTO
-http://iptvcanales.com/xw/peliculas.php?movie=130
-#EXTINF:0,UNA LOCA ENTREVISTA
-http://iptvcanales.com/xw/peliculas.php?movie=131
-#EXTINF:0,WHIPLASH
-http://iptvcanales.com/xw/peliculas.php?movie=132
-#EXTINF:0,X-MEN DIAS DEL FUTURO PASADO
-http://iptvcanales.com/xw/peliculas.php?movie=133
-#EXTINF:0,TRON: EL LEGADO (2010)
-http://iptvcanales.com/xw/peliculas.php?movie=134
-#EXTINF:0,VIDA SALVAJE (2006)
-http://iptvcanales.com/xw/peliculas.php?movie=135
-#EXTINF:0,VOLUNTAD DE HIERRO (1994)
-http://iptvcanales.com/xw/peliculas.php?movie=136
-#EXTINF:0,FRANCOTIRADOR
-http://iptvcanales.com/xw/peliculas.php?movie=137
-#EXTINF:0,EL JUGADOR
-http://iptvcanales.com/xw/peliculas.php?movie=138
-#EXTINF:0,EL HOBBIT: UN VIAJE INESPERADO
-http://iptvcanales.com/xw/peliculas.php?movie=139
-#EXTINF:0,EL HOBBIT: LA DESOLACION DE SMAUG
-http://iptvcanales.com/xw/peliculas.php?movie=140
-#EXTINF:0,EL HOBBIT: LA BATALLA DE LOS 5 EJERCITOS
-http://iptvcanales.com/xw/peliculas.php?movie=141
+
+
+
