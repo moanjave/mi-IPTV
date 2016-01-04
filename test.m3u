@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -55,121 +54,121 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 #EXTINF:-1,-Internacionales-
 
 
-#EXTINF:0, tvg-logo="HISTORY sd1" group-title="Canales Internacionales",HISTORY
+#EXTINF:0 tvg-logo="HISTORY sd1" group-title="Canales Internacionales",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="HISTORY sd2" group-title="Canales Internacionales",HISTORY
+#EXTINF:0 tvg-logo="HISTORY sd2" group-title="Canales Internacionales",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="HISTORY normal" group-title="Canales Internacionales",HISTORY
+#EXTINF:0 tvg-logo="HISTORY normal" group-title="Canales Internacionales",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="HISTORY HD" group-title="Canales Internacionales",HISTORY HD
+#EXTINF:0 tvg-logo="HISTORY HD" group-title="Canales Internacionales",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
-#EXTINF:0, tvg-logo="DISCOVERY THEATER sd" group-title="Canales Internacionales",DISCOVERY THEATER
+#EXTINF:0 tvg-logo="DISCOVERY THEATER sd" group-title="Canales Internacionales",DISCOVERY THEATER 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="DISCOVERY THEATER sd2" group-title="Canales Internacionales",DISCOVERY THEATER
+#EXTINF:0 tvg-logo="DISCOVERY THEATER sd2" group-title="Canales Internacionales",DISCOVERY THEATER 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="DISCOVERY THEATERnormal" group-title="Canales Internacionales",DISCOVERY THEATER 
+#EXTINF:0 tvg-logo="DISCOVERY THEATERnormal" group-title="Canales Internacionales",DISCOVERY THEATER  
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="DISCOVERY THEATER HD" group-title="Canales Internacionales",DISCOVERY THEATER HD
+#EXTINF:0 tvg-logo="DISCOVERY THEATER HD" group-title="Canales Internacionales",DISCOVERY THEATER HD 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
-#EXTINF:0, tvg-logo="NATGEO WILD sd" group-title="Canales Internacionales",NATGEO WILD 
+#EXTINF:0 tvg-logo="NATGEO WILD sd" group-title="Canales Internacionales",NATGEO WILD  
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="NATGEO WILD sd2" group-title="Canales Internacionales",NATGEO WILD 
+#EXTINF:0 tvg-logo="NATGEO WILD sd2" group-title="Canales Internacionales",NATGEO WILD 
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="NATGEO WILD normal" group-title="Canales Internacionales",NATGEO WILD 
+#EXTINF:0 tvg-logo="NATGEO WILD normal" group-title="Canales Internacionales",NATGEO WILD 
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, tvg-logo="NATGEO WILD HD" group-title="Canales Internacionales",NATGEO WILD HD
+#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title="Canales Internacionales",NATGEO WILD HD 
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY WORLD 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY WORLD 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY WORLD 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY WORLD HD
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD HD
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1  
 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY CHANNEL 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY CHANNEL 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY CHANNEL 
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales",DISCOVERY CHANNEL HD
+#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL HD 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 
-#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  ANIMAL PLANET 
+#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 
-#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL
+#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL
+#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL HD 
+#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL HD 
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  UNIVERSAL HD 
+#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL HD 
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 
-#EXTINF:0, group-title="Canales Internacionales" -  Warner
+#EXTINF:0 group-title="Canales Internacionales",Warner 
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  Warner 
+#EXTINF:0 group-title="Canales Internacionales",Warner 
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  Warner HD
+#EXTINF:0 group-title="Canales Internacionales",Warner HD 
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  Warner HD 
+#EXTINF:0 group-title="Canales Internacionales",Warner HD 
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+#EXTINF:0 group-title="Canales Internacionales",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+#EXTINF:0 group-title="Canales Internacionales",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+#EXTINF:0 group-title="Canales Internacionales",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX HD 
+#EXTINF:0 group-title="Canales Internacionales",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
