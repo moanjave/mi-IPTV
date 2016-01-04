@@ -7,7 +7,7 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:4335, Edo Caroe en Olmue
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales" -  LA RED
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales",LA RED
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales" -  UCV
