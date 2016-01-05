@@ -88,7 +88,12 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Action" group-title="Internacionales sd",FOX ACTION
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Internacionales sd" ,FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts
+
+
 #EXTINF:-1,-Internacionales Normal-
+
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales Normal",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -126,6 +131,7 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1,-Internacionales HD-
 
+
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales HD",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
@@ -156,7 +162,7 @@ http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales HD",FOX 1 HD 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales",FOX ACTION HD 
+#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales HD",FOX ACTION HD 
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
