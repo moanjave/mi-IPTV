@@ -3,7 +3,7 @@
 
 #EXTINF:0 type="playlist", Moi
 #EXTSIZE: Medium
-#EXTBG: "https://www.dropbox.com/s/i33nt5213pxj01s/fondo-001.jpeg?dl=0"
+#EXTBG: "https://www.dropbox.com/s/i33nt5213pxj01s/fondo-001.jpeg?dl=0" 
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/test.m3u
 
 #EXTINF:0 type="playlist", elpi
