@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:0 type="playlist", moi
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/test.m3u
+#EXTINF:0 type="playlist", elpi
+#EXTSIZE: Medium
+http://elpi.co/playlist
+#EXTINF:0 type="playlist", gene
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u
+#EXTINF:0 type="playlist", tv ultimate
+#EXTSIZE: Medium
+https://raw.githubusercontent.com/chwlibre/iptv/master/tvultimate.m3u
