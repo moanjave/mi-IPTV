@@ -1,14 +1,15 @@
 
 #EXTM3U
-#EXTBG: #130107
+#EXTBG: #07cb09
 
-#EXTINF:0 tvg-logo="http://www.cooperativa.cl/noticias/site/artic/20150125/imag/foto_0000000120150125014118.jpg", Edo Caroe en Olmue
+#EXTINF:4335, Edo Caroe en Olmue
 #EXTSIZE: Big
-#EXTBG: "http://www.cooperativa.cl/noticias/site/artic/20150125/imag/foto_0000000120150125014118.jpg"
+#EXTBG: #07cb09
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
 
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="Canales Nacionales",LA RED 
+#EXTSIZE: Medium
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
@@ -24,7 +25,7 @@ rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD  
-#EXTBG: #000005
+#EXTSIZE: Medium
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA 
@@ -43,6 +44,7 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
 rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="Canales Nacionales",Canal 13  
+#EXTSIZE: Big
 rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
 
 #EXTINF:0 tvg-logo="13c" group-title="Canales Nacionales",13C 
