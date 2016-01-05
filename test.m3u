@@ -3,6 +3,8 @@
 
 
 #EXTINF:4335, Edo Caroe en Olmue
+#EXTSIZE: Big
+#EXTBG: #07cb09
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
 
 
