@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.elnacionaldechile.cl/wp-content/uploads/2015/01/Edo-Caroe-2501-290x210.jpg", Edo Caroe en Olmue
+#EXTINF:0 tvg-logo="http://www.elnacionaldechile.cl/wp-content/uploads/2015/01/Edo-Caroe-2501-290x210.jpg" type="video" description="2014", Edo Caroe en Olmue
 #EXTSIZE: Big
 #EXTBG: "https://i.ytimg.com/vi/KG0ZrRJKcJs/hqdefault.jpg"
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
