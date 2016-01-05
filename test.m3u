@@ -43,7 +43,7 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
 rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="Canales Nacionales",Canal 13  
-#EXTSIZE: Big
+#EXTSIZE: Medium
 rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
 
 #EXTINF:0 tvg-logo="13c" group-title="Canales Nacionales",13C 
@@ -58,7 +58,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 #EXTINF:-1, Internacionales sd
 #EXTSIZE: Medium
-#EXTBG: "https://drive.google.com/file/d/0B2mEYxwXKAKeMkFhNUU5d0NxaWc/view?usp=sharing"
+#EXTBG: "blob:https%3A//drive.google.com/f2ce674f-b9b0-45d0-bef6-88bee88a2bd9"
 
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
