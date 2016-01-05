@@ -82,7 +82,11 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales sd",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox 1" group-title="Internacionales sd",FOX 1 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox Action" group-title="Internacionales sd",FOX ACTION
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1,-Internacionales Normal-
 
@@ -113,7 +117,11 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Normal",FOX 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox 1" group-title="Internacionales Normal",FOX 1 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox Action" group-title="Internacionales Normal",FOX ACTION 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
 #EXTINF:-1,-Internacionales HD-
@@ -124,7 +132,7 @@ http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales HD",DISCOVERY THEATER  
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title=Internacionales HD",NATGEO WILD 
+#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title="Internacionales HD",NATGEO WILD 
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="Discovery World" group-title="Internacionales HD",DISCOVERY WORLD 
@@ -145,7 +153,11 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales HD",FOX 1 HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales",FOX ACTION HD 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
 #EXTINF:-1,-Internacionales FULL HD-
@@ -177,12 +189,15 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Full HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
- tvg-logo=""
+#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales FULL HD",FOX 1 HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX 1 HD 
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX ACTION HD 
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION HD 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+
+ tvg-logo=""
+ 
 #EXTINF:0, group-title="Canales Internacionales" -  FOX MOVIES HD 
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  FOX CINEMA 
