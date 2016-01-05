@@ -52,125 +52,132 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 
-#EXTINF:-1,-Internacionales Calidad muy baja-
+#EXTINF:-1,-Internacionales sd-
 
 
-#EXTINF:0 tvg-logo="HISTORY sd1" group-title="Canales Internacionales Calidad muy baja",HISTORY 
+#EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="HISTORY sd2" group-title="Canales Internacionales",HISTORY 
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="HISTORY normal" group-title="Canales Internacionales",HISTORY 
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="HISTORY HD" group-title="Canales Internacionales",HISTORY HD 
-http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-
-#EXTINF:0 tvg-logo="DISCOVERY THEATER sd" group-title="Canales Internacionales",DISCOVERY THEATER 
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales sd",DISCOVERY THEATER 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="DISCOVERY THEATER sd2" group-title="Canales Internacionales",DISCOVERY THEATER 
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="DISCOVERY THEATERnormal" group-title="Canales Internacionales",DISCOVERY THEATER  
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="DISCOVERY THEATER HD" group-title="Canales Internacionales",DISCOVERY THEATER HD 
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-
-#EXTINF:0 tvg-logo="NATGEO WILD sd" group-title="Canales Internacionales",NATGEO WILD  
+#EXTINF:0 tvg-logo="NATGEO WILD" group-title="Internacionales sd",NATGEO WILD  
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="NATGEO WILD sd2" group-title="Canales Internacionales",NATGEO WILD 
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="NATGEO WILD normal" group-title="Canales Internacionales",NATGEO WILD 
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title="Canales Internacionales",NATGEO WILD HD 
-http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
+#EXTINF:0 tvg-logo="Discovery World" group-title="Internacionales sd",DISCOVERY WORLD 
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD 
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY WORLD HD
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1  
-
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
+#EXTINF:0 tvg-logo="DISCOVERY CHANNEL" group-title="Internacionales sd",DISCOVERY CHANNEL 
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL 
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",DISCOVERY CHANNEL HD 
-http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-
-#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
+#EXTINF:0 tvg-logo="ANIMAL PLANET" group-title="Internacionales sd",ANIMAL PLANET 
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",ANIMAL PLANET 
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-
-#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL
+#EXTINF:0 tvg-logo="UNIVERSAL" group-title="Internacionales sd",UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL HD 
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",UNIVERSAL HD 
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-
-#EXTINF:0 group-title="Canales Internacionales",Warner 
+#EXTINF:0 tvg-logo="Warner" group-title="Internacionales sd",Warner 
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 group-title="Canales Internacionales",Warner 
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",Warner HD 
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-#EXTINF:0 group-title="Canales Internacionales",Warner HD 
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-
-
-#EXTINF:0 group-title="Canales Internacionales",FOX HD 
+#EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales sd",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 group-title="Canales Internacionales",FOX HD 
+
+
+#EXTINF:-1,-Internacionales Normal-
+
+#EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales Normal",HISTORY 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales Normal",DISCOVERY THEATER 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="NATGEO WILD" group-title="Internacionales Normal",NATGEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="Discovery World" group-title="Internacionales Normal",DISCOVERY WORLD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="DISCOVERY CHANNEL" group-title="Internacionales Normal",DISCOVERY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="ANIMAL PLANET" group-title="Internacionales Normal",ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="UNIVERSAL" group-title="Internacionales Normal",UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Warner" group-title="Internacionales Normal",Warner 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Normal",FOX 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 group-title="Canales Internacionales",FOX HD 
+
+
+
+#EXTINF:-1,-Internacionales HD-
+
+#EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales HD",HISTORY HD 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales HD",DISCOVERY THEATER  
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title=Internacionales HD",NATGEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="Discovery World" group-title="Internacionales HD",DISCOVERY WORLD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="DISCOVERY CHANNEL" group-title="Internacionales HD",DISCOVERY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="ANIMAL PLANET" group-title="Internacionales HD",ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="UNIVERSAL" group-title="Internacionales HD",UNIVERSAL HD 
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Warner" group-title="Internacionales HD",Warner HD 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 group-title="Canales Internacionales",FOX HD 
+
+
+
+#EXTINF:-1,-Internacionales FULL HD-
+
+#EXTINF:0 tvg-logo="HISTORY HD" group-title="Internacionales Full HD",HISTORY HD 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="DISCOVERY THEATER HD" group-title="Internacionales Full HD",DISCOVERY THEATER HD 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="NATGEO WILD HD" group-title="Internacionales Full HD",NATGEO WILD HD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="Discovery World" group-title="Internacionales Full HD",DISCOVERY WORLD HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1  
+
+#EXTINF:0 tvg-logo="DISCOVERY CHANNEL" group-title="Internacionales Full HD",DISCOVERY CHANNEL HD 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="ANIMAL PLANET" group-title="Internacionales Full HD",ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="UNIVERSAL" group-title="Internacionales Full HD",UNIVERSAL HD 
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Warner" group-title="Internacionales Full HD",Warner HD 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Full HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+ tvg-logo=""
 
 #EXTINF:0, group-title="Canales Internacionales" -  FOX 1 HD 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
