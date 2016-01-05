@@ -1,6 +1,6 @@
 
 #EXTM3U
-
+#EXTBG: #130107
 
 #EXTINF:0 tvg-logo="http://www.cooperativa.cl/noticias/site/artic/20150125/imag/foto_0000000120150125014118.jpg", Edo Caroe en Olmue
 #EXTSIZE: Big
@@ -24,7 +24,7 @@ rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD  
-#EXTBG: #07cb04
+#EXTBG: #000005
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA 
