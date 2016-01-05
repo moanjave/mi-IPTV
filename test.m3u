@@ -58,7 +58,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 #EXTINF:-1, Internacionales sd
 #EXTSIZE: Medium
-#EXTBG: "blob:https%3A//drive.google.com/f2ce674f-b9b0-45d0-bef6-88bee88a2bd9"
+#EXTBG: "http://www.practical-home-theater-guide.com/image-files/icon_sdtv_small.gif"
 
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
