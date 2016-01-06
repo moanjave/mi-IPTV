@@ -56,7 +56,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 
-#EXTINF:-1, Internacionales sd
+#EXTINF:-1 description="Calidad sd", Internacionales
 #EXTSIZE: Medium
 #EXTBG: "http://www.lindqvist.com/wp-content/uploads/2010/07/SD-Television.jpg"
 
@@ -98,7 +98,7 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts
 
 
-#EXTINF:-1 description="Calidad Normal",-Internacionales Normal-
+#EXTINF:-1 description="Calidad Normal",Internacionales
 #EXTSIZE: Medium
 #EXTBG: #000000
 
@@ -136,7 +136,7 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
-#EXTINF:-1,-Internacionales HD-
+#EXTINF:-1 description="Calidad HD",Internacionales
 #EXTSIZE: Medium
 #EXTBG: #000000
 
@@ -174,7 +174,7 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
-#EXTINF:-1,-Internacionales FULL HD-
+#EXTINF:-1 description="Calidad Full HD",Internacionales
 #EXTSIZE: Medium
 #EXTBG: #000000
 
@@ -205,7 +205,7 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Full HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales FULL HD",FOX 1 HD 
+#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales Full HD",FOX 1 HD 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION HD 
