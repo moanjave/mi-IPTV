@@ -27,3 +27,8 @@ http://bit.ly/1NUQRTz
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/peliculas%20001_zpsd9ewp1is.jpg"
 https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
 
+#EXTINF:0 type="video", ptx- daft punk
+www.youtube.com/embed/3MteSlpxCpo?rel=0&au­toplay=1
+
+#EXTINF:0 , ptx- daft punk
+www.youtube.com/embed/3MteSlpxCpo?rel=0&au­toplay=1
