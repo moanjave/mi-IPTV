@@ -59,7 +59,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 #EXTINF:-1 description="Calidad sd", Internacionales
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
