@@ -47,7 +47,7 @@ rtsp://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569
 #EXTSIZE: Medium
 rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
 
-#EXTINF:0 tvg-logo="13c" group-title="Canales Nacionales",13C 
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/canal%2013c_zpshibod1dy.png" group-title="Canales Nacionales",13C 
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/tv%20chile_zpsztavzmhs.png" group-title="Canales Nacionales" description="Calidad 240",TV Chile 
@@ -65,7 +65,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales sd",DISCOVERY THEATER 
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales sd",DISCOVERY THEATER HD 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="NATGEO WILD" group-title="Internacionales sd",NATGEO WILD  
@@ -101,12 +101,12 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1 description="Calidad Normal",Internacionales
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales Normal",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales Normal",DISCOVERY THEATER 
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales Normal",DISCOVERY THEATER HD 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="NATGEO WILD" group-title="Internacionales Normal",NATGEO WILD 
@@ -139,12 +139,12 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1 description="Calidad HD",Internacionales
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales HD",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales HD",DISCOVERY THEATER  
+#EXTINF:0 tvg-logo="DISCOVERY THEATER" group-title="Internacionales HD",DISCOVERY THEATER HD  
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="NATGEO WILD HD" group-title="Internacionales HD",NATGEO WILD 
@@ -171,13 +171,13 @@ http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales HD",FOX 1 HD 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales HD",FOX ACTION HD 
+#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales HD",FOX ACTION
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
 #EXTINF:-1 description="Calidad Full HD",Internacionales
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 #EXTINF:0 tvg-logo="HISTORY HD" group-title="Internacionales Full HD",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -206,10 +206,10 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="FOX HD" group-title="Internacionales Full HD",FOX HD 
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales Full HD",FOX 1 HD 
+#EXTINF:0 tvg-logo="Fox 1 HD" group-title="Internacionales Full HD",FOX 1 
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION HD 
+#EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION 
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
@@ -525,7 +525,7 @@ http://50.7.69.138:8128/hls/bein10hd.m3u8
 
 #EXTINF:-1,-Adultos-
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 #EXTINF:0 tvg-logo="CS Sex +18 ADULT mmsh" group-title="Adultos",CS Sex +18 ADULT mmsh
 mmsh://tv.webmisto.cz:7000
@@ -542,7 +542,7 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 #EXTINF:-1,-Radios-
 #EXTSIZE: Medium
-#EXTBG: #000000
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
 
 #EXTINF:0 radio="true" tvg-logo="" group-title="Radios" -  -[COLOR red]Radios Chilenas[/COLOR]-
 http://127.0.0.1
