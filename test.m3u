@@ -7,7 +7,7 @@
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
 
 
-#EXTINF:O type="playlist", Mailo
+#EXTINF:0 type="playlist", Mailo
 #EXTSIZE: BIG
 #EXTBG: #4ad521
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20Mailo
