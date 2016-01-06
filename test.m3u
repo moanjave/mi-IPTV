@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.elnacionaldechile.cl/wp-content/uploads/2015/01/Edo-Caroe-2501-290x210.jpg" type="video" description="2014", Edo Caroe en Olmue
+#EXTINF:0 tvg-logo="http://www.elnacionaldechile.cl/wp-content/uploads/2015/01/Edo-Caroe-2501-290x210.jpg" type="video" description="Olmue 2014", Edo Caroe 
 #EXTSIZE: Big
 #EXTBG: "https://i.ytimg.com/vi/KG0ZrRJKcJs/hqdefault.jpg"
 rtsp://wow2.tvn.cl:1935/mediacache/_definst_/mp4:/elemental/edocaroecompleto/edocaroecompleto_480.mp4
@@ -14,13 +14,13 @@ http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 360p 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 360",TVN 
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn360p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 240p  
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 240",TVN  
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales",TVN 160p 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 160",TVN 
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD  
@@ -33,10 +33,10 @@ http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA 
 http://mdstrm.com/live-stream-playlist-v/53d2c1a32640614e62a0e000.m3u8
 
-#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (432p) 
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales" description="Calidad 432",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
 
-#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV (352p) 
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales" description="Calidad 352",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="Canales Nacionales",CHV andr 
@@ -49,16 +49,16 @@ rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
 #EXTINF:0 tvg-logo="13c" group-title="Canales Nacionales",13C 
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0 tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 240p 
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/tv%20chile_zpsztavzmhs.png" group-title="Canales Nacionales" description="Calidad 240",TV Chile 
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_240p
 
-#EXTINF:0 tvg-logo="TV chile" group-title="Canales Nacionales",TV Chile 360p 
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/tv%20chile_zpsztavzmhs.png" group-title="Canales Nacionales" description="Calidad 360",TV Chile 
 rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 
 #EXTINF:-1 description="Calidad sd", Internacionales
 #EXTSIZE: Medium
-#EXTBG: "http://www.lindqvist.com/wp-content/uploads/2010/07/SD-Television.jpg"
+#EXTBG: #000000
 
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
@@ -211,6 +211,8 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION HD 
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+
+#EXTINF:0, Por ordenar
 
  tvg-logo=""
  
