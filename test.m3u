@@ -97,6 +97,22 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Internacionales sd" ,FOX ACTION HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts
+ 
+#EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales sd",FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales sd",FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales sd",CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="FX" group-title="Internacionales sd",FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="TNT HD" group-title="Internacionales sd",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
 
 
 #EXTINF:-1 description="Calidad Normal",Internacionales
@@ -136,6 +152,25 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Action" group-title="Internacionales Normal",FOX ACTION 
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox Movies HD" group-title="Internacionales Normal",FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales Normal",FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales Normal",FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales Normal",CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="FX" group-title="Internacionales Normal",FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="TNT HD" group-title="Internacionales Normal",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
 
 #EXTINF:-1 description="Calidad HD",Internacionales
 #EXTSIZE: Medium
@@ -173,6 +208,25 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales HD",FOX ACTION
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="Fox Movies HD" group-title="Internacionales HD",FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales HD",FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales HD",FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales HD",CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="FX" group-title="Internacionales HD",FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="TNT HD" group-title="Internacionales HD",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
 
 
 #EXTINF:-1 description="Calidad Full HD",Internacionales
@@ -212,21 +266,34 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Action HD" group-title="Internacionales Full HD",FOX ACTION 
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:0 tvg-logo="Fox Movies HD" group-title="Internacionales Full HD",FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ 
+#EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales Full HD",FOX CINEMA 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales Full HD",FOX CLASSIC 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales Full HD",CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0 tvg-logo="FX" group-title="Internacionales Full HD",FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:0 tvg-logo="TNT HD" group-title="Internacionales Full HD",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
 
 #EXTINF:0, Por ordenar
 
  tvg-logo=""
  
-#EXTINF:0, group-title="Canales Internacionales" -  FOX MOVIES HD 
-http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX CINEMA 
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FOX CLASSIC 
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
 #EXTINF:0, group-title="Canales Internacionales" -  AZCINEMA 
 http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  CINECANAL 
-http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
 
 #EXTINF:0, group-title="Canales Internacionales" -  FOX 
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
@@ -340,8 +407,8 @@ http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  SYFY 
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
-#EXTINF:0, group-title="Canales Internacionales" -  FX 
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+
 #EXTINF:0, group-title="Canales Internacionales" -  ID 
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  TNT SERIES 
@@ -403,8 +470,6 @@ http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0, group-title="Canales Internacionales" -  AZCLIC HD 
 http://200.76.77.237/LIVE/H01/CANAL725/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0, group-title="Canales Internacionales" -  TNT 
-http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  GOLDEN 
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  FILMZONE 
@@ -437,6 +502,9 @@ http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Internacionales" -  TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
+
+#EXTINF:o, MBC
+
 #EXTINF:0, MBC HD -  
 http://87.248.160.8/edge/smil:mbc/playlist.m3u8 
 #EXTINF:0, MBC ACTION -  
@@ -457,6 +525,9 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8 
 #EXTINF:0, MBC ACTION 2 -  
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:0, Canales Musica
+
 #EXTINF:0, group-title="Canales Musica" -  MTV LIVE 
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Musica" -  TELEHIT 
@@ -501,6 +572,9 @@ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 #EXTINF:0, group-title="Canales Musica" -  BANDAMAX HD 
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:0, Deportes
+
 #EXTINF:0, group-title="Deportes" -  beIN Sports 1 HD
 http://50.7.69.138:8128/hls/bein1hd.m3u8
 #EXTINF:0, group-title="Deportes" -  beIN Sports 2 HD
