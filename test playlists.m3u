@@ -2,7 +2,7 @@
 #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist", Moi
-#EXTSIZE: Medium
+#EXTSIZE: Big
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/logos-iptv/fondo-002_zpsewuw0m94.jpg"
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/test.m3u
 
@@ -21,3 +21,9 @@ https://raw.githubusercontent.com/chwlibre/iptv/master/tvultimate.m3u
 #EXTINF:0 type="playlist", Dean cl
 #EXTSIZE: Medium
 http://bit.ly/1NUQRTz
+
+#EXTINF:0 type="playlist", genepeliculas
+#EXTSIZE: Medium
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/peliculas%20001_zpsd9ewp1is.jpg
+https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
+
