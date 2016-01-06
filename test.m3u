@@ -59,7 +59,7 @@ rtsp://wow1.tvn.cl:1935/tvn-live/mp4:285a5c6dade574d5f111419c85c6cf17_360p
 
 #EXTINF:-1 description="Calidad sd", Internacionales
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
 
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales sd",HISTORY 
@@ -117,7 +117,8 @@ http://200.76.77.237/LIVE/H01/CANAL435/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1 description="Calidad Normal",Internacionales
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
+
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales Normal",HISTORY 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -174,7 +175,8 @@ http://200.76.77.237/LIVE/H01/CANAL435/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1 description="Calidad HD",Internacionales
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
+
 
 #EXTINF:0 tvg-logo="HISTORY" group-title="Internacionales HD",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -231,7 +233,8 @@ http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1 description="Calidad Full HD",Internacionales
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
+
 
 #EXTINF:0 tvg-logo="HISTORY HD" group-title="Internacionales Full HD",HISTORY HD 
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -599,7 +602,8 @@ http://50.7.69.138:8128/hls/bein10hd.m3u8
 
 #EXTINF:-1,-Adultos-
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
+
 
 #EXTINF:0 tvg-logo="CS Sex +18 ADULT mmsh" group-title="Adultos",CS Sex +18 ADULT mmsh
 mmsh://tv.webmisto.cz:7000
@@ -616,7 +620,8 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
 #EXTINF:-1,-Radios-
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20doble%20blanco%20fondo%20negro_zpsourjltwi.png"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/0%20Separador%20cubo%20blanco%20fondo%20negro_zpskukjkp0t.png"
+
 
 #EXTINF:0 radio="true" tvg-logo="" group-title="Radios" -  -[COLOR red]Radios Chilenas[/COLOR]-
 http://127.0.0.1
