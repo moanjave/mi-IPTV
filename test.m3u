@@ -14,13 +14,14 @@ http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="Canales Nacionales",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 360",TVN 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 360",TVN 360
+#EXTSIZE: Medium
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn360p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 240",TVN  
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 240",TVN 240 
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn240p
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 160",TVN 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="Canales Nacionales" description="Calidad 160",TVN 160
 rtsp://wow1.tvn.cl:1935/liveedge/mp4:tvn160p
 
 #EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_cl_zps0ks9qdpw.png" group-title="Canales Nacionales",MEGA HD  
