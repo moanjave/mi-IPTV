@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/chwlibre/iptv/master/tvultimate.m3u
 #EXTSIZE: Medium
 http://bit.ly/1NUQRTz
 
-#EXTINF:0 type="playlist", genepeliculas
+#EXTINF:0 type="playlist" description="genepeliculas", Peliculas
 #EXTSIZE: Medium
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/peliculas%20001_zpsd9ewp1is.jpg"
 https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
