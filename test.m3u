@@ -101,10 +101,10 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE01.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales sd",FOX CINEMA 
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales sd",FOX CLASSIC 
+#EXTINF:0 tvg-logo="FOX CLASSICS" group-title="Internacionales sd",FOX CLASSIC 
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales sd",CINECANAL +
+#EXTINF:0 tvg-logo="Cinecanal+" group-title="Internacionales sd",CINECANAL +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE01.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
 #EXTINF:0 tvg-logo="FX" group-title="Internacionales sd",FX 
@@ -158,10 +158,10 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales Normal",FOX CINEMA 
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales Normal",FOX CLASSIC 
+#EXTINF:0 tvg-logo="FOX CLASSICS" group-title="Internacionales Normal",FOX CLASSIC 
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales Normal",CINECANAL +
+#EXTINF:0 tvg-logo="Cinecanal+" group-title="Internacionales Normal",CINECANAL +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="FX" group-title="Internacionales Normal",FX 
@@ -215,10 +215,10 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales HD",FOX CINEMA 
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales HD",FOX CLASSIC 
+#EXTINF:0 tvg-logo="FOX CLASSICS" group-title="Internacionales HD",FOX CLASSIC 
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales HD",CINECANAL +
+#EXTINF:0 tvg-logo="Cinecanal+" group-title="Internacionales HD",CINECANAL +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="FX" group-title="Internacionales HD",FX 
@@ -272,10 +272,10 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0 tvg-logo="Fox Cinema" group-title="Internacionales Full HD",FOX CINEMA 
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Fox Classic" group-title="Internacionales Full HD",FOX CLASSIC 
+#EXTINF:0 tvg-logo="Fox Classics" group-title="Internacionales Full HD",FOX CLASSIC 
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1 
 
-#EXTINF:0 tvg-logo="Cinecanal +" group-title="Internacionales Full HD",CINECANAL +
+#EXTINF:0 tvg-logo="Cinecanal+" group-title="Internacionales Full HD",CINECANAL +
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="FX" group-title="Internacionales Full HD",FX 
