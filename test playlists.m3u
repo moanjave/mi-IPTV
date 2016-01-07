@@ -14,6 +14,10 @@ http://elpi.co/playlist
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u
 
+#EXTINF:0 type="playlist", IPTV Latino
+#EXTSIZE: Medium
+http://pastebin.com/raw/Wppqfnjw
+
 #EXTINF:0 type="playlist", tv ultimate
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/chwlibre/iptv/master/tvultimate.m3u
@@ -34,4 +38,6 @@ https://raw.githubusercontent.com/moanjave/mi-IPTV/master/ptx%20playlist.m3u
 #EXTINF:0 type="playlist", Musica variada
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/musica_zpsewhpr1eh.jpg"
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musica%20variada.m3u
+
+
 
