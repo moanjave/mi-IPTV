@@ -3,7 +3,7 @@
 
 #EXTINF:0 type="playlist", Moi
 #EXTSIZE: Medium
-#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/logos-iptv/fondo-002_zpsewuw0m94.jpg"
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/logos-iptv/0%20fondo-001_zpshoafzzbm.jpeg"
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/test.m3u
 
 #EXTINF:0 type="playlist", elpi
@@ -27,8 +27,11 @@ http://bit.ly/1NUQRTz
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/peliculas%20001_zpsd9ewp1is.jpg"
 https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
 
-#EXTINF:0 type="video", ptx- daft punk
-https://www.youtube.com/embed/3MteSlpxCpo?rel=0&au­toplay=1
+#EXTINF:0 type="playlist", PTX
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/Pentatonix_logo_zpspt467doo.jpg"
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/ptx%20playlist
 
-#EXTINF:0 , ptx- daft punk
-https://www.youtube.com/embed/3MteSlpxCpo?rel=0&au­toplay=1
+#EXTINF:0 type="playlist", Musica variada
+#EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/musica_zpsewhpr1eh.jpg"
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musica%20variada
+
