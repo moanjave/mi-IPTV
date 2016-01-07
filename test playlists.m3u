@@ -29,9 +29,9 @@ https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
 
 #EXTINF:0 type="playlist", PTX
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/Pentatonix_logo_zpspt467doo.jpg"
-https://raw.githubusercontent.com/moanjave/mi-IPTV/master/ptx%20playlist
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/ptx%20playlist.m3u
 
 #EXTINF:0 type="playlist", Musica variada
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/musica_zpsewhpr1eh.jpg"
-https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musica%20variada
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musica%20variada.m3u
 
