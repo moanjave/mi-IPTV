@@ -38,21 +38,21 @@ https://raw.githubusercontent.com/chwlibre/iptv/master/jorge%20iptv.m3u
 #EXTSIZE: Medium
 https://raw.githubusercontent.com/chwlibre/iptv/master/jorge2.m3u
 
-#EXTINF:0 type="playlist" description="genepeliculas" tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Peliculas
+#EXTINF:0 description="genepeliculas" tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Peliculas
 #EXTSIZE: Medium
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/pelicuas%20003_zpszut2wtzj.jpg"
 https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", PTX
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", PTX
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/Pentatonix_logo_zpspt467doo.jpg"
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/ptx%20playlist.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Musica variada
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Musica variada
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/811d8f76-1876-435d-b188-0f74514708eb_zpsbgskqmz3.jpg"
 https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musica%20variada.m3u
 
 
-#EXTINF:0 type="playlist" tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Videos Musicales
+#EXTINF:0 tvg-logo="http://i1379.photobucket.com/albums/ah134/moanjave/0%20fondo%20transparente_zpsgjrux3br.png", Videos Musicales
 #EXTBG: "http://i1379.photobucket.com/albums/ah134/moanjave/musica-LOGO-Png_zpsihta5cbj.png"
-https://dl.dropboxusercontent.com/s/41vwradmh7dy2hy/playlist%20videos.m3u?dl=0
+https://raw.githubusercontent.com/moanjave/mi-IPTV/master/videos%20musicales.m3u
 
