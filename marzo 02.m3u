@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,cine latino
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/1805edd6fa9ce4ea7086f616271691572e08899f/86.m3u8
+#EXTINF:-1,hbo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
+#EXTINF:-1,hbo family
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0eca0c2784c1339f7ee47db4906f2181c23efabe/3181.m3u8
+#EXTINF:-1,hbo 2
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1963212bcce3ab90e0cb7300ef4b868dfab208f/103.m3u8
+#EXTINF:-1,hbo plus
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b0ae4816e4df5ffa59f99552103c780d66078c29/104.m3u8
+#EXTINF:-1,máx prime
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/5a88aed28580a65625471fb8c7326231abbdb2c0/968.m3u8
+#EXTINF:-1,multipremier
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/abc2f17f8ed8cdb3325d29007c753e9b40f155f0/111.m3u8
+#EXTINF:-1,fox family
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/8a732c7edbf6fcc9fd5e4aabc13ea511560a275d/90.m3u8
+#EXTINF:-1,fox comedy
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/6a13833df1e420ddfe24fe35138439b07736ec1d/91.m3u8
+#EXTINF:-1,DirecTV sports
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f88c9f198ca06f1bca210be9e7959f4cebf0dd48/3172.m3u8
+#EXTINF:-1,deportv
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/a16a2eefba7fa5c271ee923e57e65f9efa5bae75/3171.m3u8
+#EXTINF:-1,nba
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/bb36848ec08f4c9fe625b41fcab71ea1b5e5ff1f/379.m3u8
+#EXTINF:-1,tdn
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/d14287b3d84c0ddaba408fba70acfc80ff4a149f/702747a1039bfd7906cdf02a7f1a3a518df32527/277.m3u8
+#EXTINF:-1,Univisión tdn
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/7dcfaddac67d1d6a1549d25040d08504a3ea23f9/277.m3u8
+#EXTINF:-1,DirecTV trailers
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1818a1c1b4d012d74e16b8a3664741cfcb18454/281.m3u8
+#EXTINF:-1,las estrellas
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f3e8eddc27ec83d210bd656c8c6c1e2a28e6711a/233.m3u8
+#EXTINF:-1,unimas
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f2e1ea44e26f7602361df0dbc3a0a43a7395f5cb/248.m3u8
+#EXTINF:-1,univision
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/9f929680c7cc1d9dba8a49b530bb5e83a4b43c46/247.m3u8
+#EXTINF:-1,telemundo
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/be8e37702a6fa7076e4d6d28fc52de2d8b83d4cd/242.m3u8
+#EXTINF:-1,deportes 1
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0f791cc64c683c46d00e4129cca1a07e13c45daf/1505.m3u8
+#EXTINF:-1,deportes 2
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/eece234094a53e544ac75ea3ecaaf79e6349d1d0/1506.m3u8
+#EXTINF:-1,show beyond
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/46447dbe35101ebbbe6cacabc76161422db6a838/510.m3u8
+#EXTINF:-1,show extreme
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/787a21fe42613b380b44b47c993bf64bb60038b8/509.m3u8
+#EXTINF:-1,tnt us
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/d8b59edaa9637ee7c08b21d781f08d8db0ec6373/364.m3u8
+#EXTINF:-1,show next
+http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0311822bd2f7f32c7a7a18063c6d2db5b4fd7613/511.m3u8
