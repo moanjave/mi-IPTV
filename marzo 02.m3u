@@ -1,51 +1,139 @@
+
 #EXTM3U
-#EXTINF:-1,cine latino
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/1805edd6fa9ce4ea7086f616271691572e08899f/86.m3u8
-#EXTINF:-1,hbo
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/27edbc2409d7ae38eba34a01ffc9d70df68d13e3/102.m3u8
-#EXTINF:-1,hbo family
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0eca0c2784c1339f7ee47db4906f2181c23efabe/3181.m3u8
-#EXTINF:-1,hbo 2
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1963212bcce3ab90e0cb7300ef4b868dfab208f/103.m3u8
-#EXTINF:-1,hbo plus
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b0ae4816e4df5ffa59f99552103c780d66078c29/104.m3u8
-#EXTINF:-1,máx prime
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/5a88aed28580a65625471fb8c7326231abbdb2c0/968.m3u8
-#EXTINF:-1,multipremier
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/abc2f17f8ed8cdb3325d29007c753e9b40f155f0/111.m3u8
-#EXTINF:-1,fox family
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/8a732c7edbf6fcc9fd5e4aabc13ea511560a275d/90.m3u8
-#EXTINF:-1,fox comedy
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/6a13833df1e420ddfe24fe35138439b07736ec1d/91.m3u8
-#EXTINF:-1,DirecTV sports
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f88c9f198ca06f1bca210be9e7959f4cebf0dd48/3172.m3u8
-#EXTINF:-1,deportv
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/a16a2eefba7fa5c271ee923e57e65f9efa5bae75/3171.m3u8
-#EXTINF:-1,nba
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/bb36848ec08f4c9fe625b41fcab71ea1b5e5ff1f/379.m3u8
-#EXTINF:-1,tdn
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/d14287b3d84c0ddaba408fba70acfc80ff4a149f/702747a1039bfd7906cdf02a7f1a3a518df32527/277.m3u8
-#EXTINF:-1,Univisión tdn
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/7dcfaddac67d1d6a1549d25040d08504a3ea23f9/277.m3u8
-#EXTINF:-1,DirecTV trailers
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/b1818a1c1b4d012d74e16b8a3664741cfcb18454/281.m3u8
-#EXTINF:-1,las estrellas
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f3e8eddc27ec83d210bd656c8c6c1e2a28e6711a/233.m3u8
-#EXTINF:-1,unimas
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/f2e1ea44e26f7602361df0dbc3a0a43a7395f5cb/248.m3u8
-#EXTINF:-1,univision
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/9f929680c7cc1d9dba8a49b530bb5e83a4b43c46/247.m3u8
-#EXTINF:-1,telemundo
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/be8e37702a6fa7076e4d6d28fc52de2d8b83d4cd/242.m3u8
-#EXTINF:-1,deportes 1
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0f791cc64c683c46d00e4129cca1a07e13c45daf/1505.m3u8
-#EXTINF:-1,deportes 2
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/eece234094a53e544ac75ea3ecaaf79e6349d1d0/1506.m3u8
-#EXTINF:-1,show beyond
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/46447dbe35101ebbbe6cacabc76161422db6a838/510.m3u8
-#EXTINF:-1,show extreme
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/787a21fe42613b380b44b47c993bf64bb60038b8/509.m3u8
-#EXTINF:-1,tnt us
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/d8b59edaa9637ee7c08b21d781f08d8db0ec6373/364.m3u8
-#EXTINF:-1,show next
-http://service.app.mxl-iptv.tv/iptv_data/app/script/tv/81b6185cc350e0c146fc4c5797f50703dd7e8e76/0311822bd2f7f32c7a7a18063c6d2db5b4fd7613/511.m3u8
+
+
+#EXTINF:-1, A&E HD
+http://live.tvplayerlatino.com/usuarios/src1/AEHD/web/playlist.m3u8
+#EXTINF:-1, ABC News
+http://live.tvplayerlatino.com/usuarios/src4/ABCNews/web/playlist.m3u8
+#EXTINF:-1, AMC
+http://live.tvplayerlatino.com/usuarios/src1/AMC/web/playlist.m3u8
+#EXTINF:-1, Animal Planet
+http://live.tvplayerlatino.com/usuarios/src1/AnimalPlanet/web/playlist.m3u8
+#EXTINF:-1, AXN
+http://live.tvplayerlatino.com/usuarios/src1/AXN/web/playlist.m3u8
+#EXTINF:-1, AyM Sports
+http://live.tvplayerlatino.com/usuarios/src1/AyMSports/web/playlist.m3u8
+#EXTINF:-1, Az Clic
+http://live.tvplayerlatino.com/usuarios/src1/AzClic/web/playlist.m3u8
+#EXTINF:-1, Az CorazÃ³n
+http://live.tvplayerlatino.com/usuarios/src1/AzCorazon/web/playlist.m3u8
+#EXTINF:-1, Az Mundo
+http://live.tvplayerlatino.com/usuarios/src1/AzMundo/web/playlist.m3u8
+#EXTINF:-1, El trece
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1, Azteca 7
+http://live.tvplayerlatino.com/usuarios/src1/Azteca7/web/playlist.m3u8
+#EXTINF:-1, Azteca Deportes
+http://live.tvplayerlatino.com/usuarios/src4/AztecaDeportes/web/playlist.m3u8
+#EXTINF:-1, Azteca Honduras
+http://live.tvplayerlatino.com/usuarios/src4/AztecaHonduras/web/playlist.m3u8
+#EXTINF:-1, Azteca Noticias
+http://live.tvplayerlatino.com/usuarios/src4/AztecaNoticias/web/playlist.m3u8
+#EXTINF:-1, Baby TV
+http://live.tvplayerlatino.com/usuarios/src2/BabyTV/web/playlist.m3u8
+#EXTINF:-1, Bandamax
+http://live.tvplayerlatino.com/usuarios/src1/Bandamax/web/playlist.m3u8
+#EXTINF:-1, BeinSports
+http://live.tvplayerlatino.com/usuarios/src2/BeinSports/web/playlist.m3u8
+#EXTINF:-1, Bloomberg
+http://live.tvplayerlatino.com/usuarios/src4/Bloomberg/web/playlist.m3u8
+#EXTINF:-1, Boomerang
+http://live.tvplayerlatino.com/usuarios/src1/Boomerang/web/playlist.m3u8
+#EXTINF:-1, BT Sport 1
+http://live.tvplayerlatino.com/usuarios/src2/BTSport1/web/playlist.m3u8
+#EXTINF:-1, Canal 2
+http://live.tvplayerlatino.com/usuarios/src1/CanaldelasEstrellas/web/playlist.m3u8
+#EXTINF:-1, Canal 2
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,Latino America | UNIVISION
+http://149.202.208.25:5210/live/QsLFuOKxDB/5LJoL0EVbo/10164.ts
+USA IPTV Playlist #EXTM3U #EXTINF:-1,A&E http://5.226.137.176:9090/load/free123/2.mpegts #EXTINF:-1,ABC
+http://5.226.137.176:9090/load/free123/18.mpegts #EXTINF:-1,Cinemax 5Stars
+http://5.226.137.176:9090/load/free123/20.mpegts #EXTINF:-1,CNN US http://5.226.137.176:9090/load/free123/16.mpegts #EXTINF:-1,Comedy Central US http://5.226.137.176:9090/load/free123/14.mpegts #EXTINF:-1,Discovery Channel US http://5.226.137.176:9090/load/free123/49.mpegts #EXTINF:-1,E! http://5.226.137.176:9090/load/free123/5.mpegts #EXTINF:-1,ESPN http://5.226.137.176:9090/load/free123/30.mpegts #EXTINF:-1,ESPN2 http://5.226.137.176:9090/load/free123/31.mpegts #EXTINF:-1,FOX http://5.226.137.176:9090/load/free123/6.mpegts #EXTINF:-1,Fox Sports1 http://5.226.137.176:9090/load/free123/32.mpegts #EXTINF:-1,Fox Sports2 http://5.226.137.176:9090/load/free123/33.mpegts #EXTINF:-1,FX http://5.226.137.176:9090/load/free123/7.mpegts #EXTINF:-1,H2 US http://5.226.137.176:9090/load/free123/25.mpegts #EXTINF:-1,HallMark http://5.226.137.176:9090/load/free123/9.mpegts #EXTINF:-1,HBO Comedy http://5.226.137.176:9090/load/free123/53.mpegts #EXTINF:-1,HBO EAST
+ 
+http://live.tvplayerlatino.com/usuarios/src4/CanaldelasEstrellas2/web/playlist.m3u8
+#EXTINF:-1, Canal i
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1, Once TV
+http://live.tvplayerlatino.com/usuarios/src4/CanalOnce/web/playlist.m3u8
+#EXTINF:-1, Canela TV
+http://live.tvplayerlatino.com/usuarios/src4/CanelaTV/web/playlist.m3u8
+#EXTINF:-1, Canatinazo TV
+http://live.tvplayerlatino.com/usuarios/src4/CantinazoTV/web/playlist.m3u8
+#EXTINF:-1, Capital 21 CDMX
+http://live.tvplayerlatino.com/usuarios/src4/Capital21CDMX/web/playlist.m3u8
+#EXTINF:-1, Capital TV
+http://live.tvplayerlatino.com/usuarios/src4/CapitalTV/web/playlist.m3u8
+#EXTINF:-1, Caracol
+http://live.tvplayerlatino.com/usuarios/src5/Caracol/web/playlist.m3u8
+#EXTINF:-1, Caracol Internacional
+http://live.tvplayerlatino.com/usuarios/src2/CaracolInternacional/web/playlist.m3u8
+#EXTINF:-1, Cartoon Network
+http://live.tvplayerlatino.com/usuarios/src1/CartoonNetwork/web/playlist.m3u8
+#EXTINF:-1, CB24 Noticias
+http://live.tvplayerlatino.com/usuarios/src4/CB24Noticias/web/playlist.m3u8
+#EXTINF:-1, CBeebies
+http://live.tvplayerlatino.com/usuarios/src1/CBeebies/web/playlist.m3u8
+#EXTINF:-1, Cine Latino
+http://live.tvplayerlatino.com/usuarios/src2/CineLatino/web/playlist.m3u8
+#EXTINF:-1, Cinecanal (W)
+http://live.tvplayerlatino.com/usuarios/src1/Cinecanal/web/playlist.m3u8
+#EXTINF:-1, Cinecanal HD
+http://live.tvplayerlatino.com/usuarios/src1/CinecanalHD/web/playlist.m3u8
+#EXTINF:-1, Cinemax (W)
+http://live.tvplayerlatino.com/usuarios/src1/Cinemax/web/playlist.m3u8
+#EXTINF:-1, CNN en espaÃ±ol
+http://live.tvplayerlatino.com/usuarios/src2/CNNenEspanol/web/playlist.m3u8
+#EXTINF:-1, Colosal TV
+http://live.tvplayerlatino.com/usuarios/src4/ColosalTV/web/playlist.m3u8
+#EXTINF:-1, CTNI
+http://live.tvplayerlatino.com/usuarios/src4/CTNI/web/playlist.m3u8
+#EXTINF:-1, De PelÃ¬cula
+http://live.tvplayerlatino.com/usuarios/src1/DePelicula/web/playlist.m3u8
+#EXTINF:-1, DeporTV
+http://live.tvplayerlatino.com/usuarios/src4/DeporTV/web/playlist.m3u8
+#EXTINF:-1, Discovery Channel
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/web/playlist.m3u8
+#EXTINF:-1, Discovery Channel
+http://live.tvplayerlatino.com/usuarios/src2/DiscoveryChannel2/web/playlist.m3u8
+#EXTINF:-1, Discovery Civilization
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryCivilization/web/playlist.m3u8
+#EXTINF:-1, Home and Health
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryHH/web/playlist.m3u8
+#EXTINF:-1, Discovery Kids
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryKids/web/playlist.m3u8
+#EXTINF:-1, Discovery Theater HD
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTheaterHD/web/playlist.m3u8
+#EXTINF:-1, Discovery Turbo
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryTurbo/web/playlist.m3u8
+#EXTINF:-1, Discovery World HD
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryWorld/web/playlist.m3u8
+#EXTINF:-1, Disney Channel
+http://live.tvplayerlatino.com/usuarios/src1/DisneyChannel/web/playlist.m3u8
+#EXTINF:-1, Disney Jr
+http://live.tvplayerlatino.com/usuarios/src1/DisneyJunior/web/playlist.m3u8
+#EXTINF:-1, Disney XD
+http://live.tvplayerlatino.com/usuarios/src1/DisneyXD/web/playlist.m3u8
+#EXTINF:-1, Distrito Comedia
+http://live.tvplayerlatino.com/usuarios/src1/DistritoComedia/web/playlist.m3u8
+#EXTINF:-1, Djing Ibiza
+http://live.tvplayerlatino.com/usuarios/src4/DjingIbiza/web/playlist.m3u8
+#EXTINF:-1, E! Entertainment Television
+http://live.tvplayerlatino.com/usuarios/src1/EEntertainment/web/playlist.m3u8
+#EXTINF:-1, Ecuavisa
+http://live.tvplayerlatino.com/usuarios/src5/Ecuavisa/web/playlist.m3u8
+#EXTINF:-1, Efekto TV
+http://live.tvplayerlatino.com/usuarios/src4/EfektoTV/web/playlist.m3u8
+#EXTINF:-1, Esperanza TV
+http://live.tvplayerlatino.com/usuarios/src4/EsperanzaTV/web/playlist.m3u8
+#EXTINF:-1, ESPN
+http://live.tvplayerlatino.com/usuarios/src1/ESPN/web/playlist.m3u8
+#EXTINF:-1, ESPN 2
+http://live.tvplayerlatino.com/usuarios/src1/ESPN2/web/playlist.m3u8
+#EXTINF:-1, ESPN 3
+http://live.tvplayerlatino.com/usuarios/src1/ESPN3/web/playlist.m3u8
+« Previous ArticleUK IPTV Channels Playlist M3U8
+Next Article »IPTV UK TV Android Playlist
+
+    android iptv iptv for vlc iptv Kodi iptv m3u8
