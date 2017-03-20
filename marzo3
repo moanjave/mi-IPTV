@@ -39,6 +39,9 @@ skip
 #EXTINF:0,Universal Channel
 http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
+#EXTINF:0,Universal Channel
+http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8
+
 #EXTINF:0,DIVA
 http://cdn.iptv.amis.net/ts/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
