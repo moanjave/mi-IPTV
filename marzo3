@@ -1,0 +1,560 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]>>>BIKERDAYS FREE LIST<<<[/COLOR]
+skip
+ 
+#EXTINF:-1,[COLOR green]--- HRVATSKI PROGRAMI ---[/COLOR]
+skip
+ 
+#EXTINF:0,HRT 1
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HRT 2
+http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,HRT 3
+http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+#EXTINF:0,RTL
+http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,RTL 2
+http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,RTL Living
+http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Televizija STV Osijek
+mms://89.201.164.181/stv
+ 
+#EXTINF:0,ZDRAVA TV
+rtmp://live.videonet.rs/videonet-live/play/videonet4.stream
+ 
+#EXTINF:0,RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+ 
+#EXTINF:0,TV Student
+rtmp://213.202.73.202/iskon/studentska_b2.stream
+ 
+ 
+#EXTINF:-1,[COLOR green]--- FILMOVI+SERIJE ---[/COLOR]
+skip
+ 
+#EXTINF:0,Universal Channel
+http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,DIVA
+http://cdn.iptv.amis.net/ts/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,FOX
+http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,FOX Life
+http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,FOX MOVIES
+http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,FOX Crime
+http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,AMC
+http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,HBO
+http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,HBO 2
+http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,HBO 3
+http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,TV 1000
+http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,CBS Reality
+http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,AXN
+http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+ 
+#EXTINF:-1,[COLOR green]--- DOKUMENTARNI PROGRAMI ---[/COLOR]
+skip
+ 
+#EXTINF:0,Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+ 
+#EXTINF:0,National Geographic
+http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,National Geographic (slo)
+http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Nat Geo Wild
+http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,DISCOVERY (slo)
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Animal Planet (SLO)
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Travel Channel
+http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Travel Channel (slo)
+http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,History Channel
+http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Viasat History
+http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Viasat History (slo)
+http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Viasat Explorer
+http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,24Kitchen
+http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,tlc
+http://cdn.iptv.amis.net/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:-1, ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+ 
+#EXTINF:0,Mute HD
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+ 
+#EXTINF:0,Russia Today Documentary
+http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
+ 
+#EXTINF:-1, RT Doc
+http://streamer01.infoview.tv:8080/RT_Doc/index.m3u8
+ 
+#EXTINF:0,Hunting and Fishing
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+ 
+#EXTINF:-1,[COLOR green]--- MUZIČKI PROGRAMI ---[/COLOR]
+skip
+ 
+#EXTINF:0,MTV Adria
+http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,VH1
+http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,DM SAT
+http://cdn.iptv.amis.net/LIVE/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,CMC
+http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+ 
+#EXTINF:0,JUCE TV
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+ 
+#EXTINF:0,Deejay.hr
+rtmp://46.101.135.209/tv/live
+ 
+#EXTINF:-1,jugoton
+http://80.80.58.167:8070/hls/jugoton.m3u8
+ 
+#EXTINF:-1,Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8|User-Agent=Mozilla/5.0
+ 
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- VIJESTI ---[/COLOR]
+skip
+ 
+ 
+#EXTINF:0,Al Jazeera Balkans
+http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Al Jazeera Balkans
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high
+ 
+#EXTINF:-1,Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- TALIJANSKI PROGRAMI ---[/COLOR]
+skip
+ 
+ 
+#EXTINF:0,Eurosport 2
+http://37.46.192.238:10000/play/a005/index.m3u8
+#EXTINF:0,Eurosport 1
+http://37.46.192.238:10000/play/a004/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- SLOVENSKI PROGRAMI ---[/COLOR]
+skip
+ 
+#EXTINF:0,SLO 1
+http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,SLO 2
+http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,SLO 3
+http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- EXYU ---[/COLOR]
+skip
+ 
+ 
+#EXTINF:0,RTS
+http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Hayat Plus
+http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,777 Podgorica
+rtmp://media.streamingpulse.biz:1935/tehnikatv777/tehnikatv777
+ 
+#EXTINF:-1,balkan tv
+rtmp://yayin.tvdunyasi.tv/live/balkanrtv
+ 
+ 
+ 
+#EXTINF:-1,Kopernikus  
+http://87.255.53.69:8002/play/s384
+#EXTINF:-1,OTV Valentino   
+http://87.255.53.69:8002/play/s380
+#EXTINF:-1,Svet Plus   
+http://87.255.53.69:8002/play/s382
+#EXTINF:-1,KCN 
+http://87.255.53.69:8002/play/s383
+#EXTINF:-1,Duga TV 
+http://87.255.53.69:8002/play/s381
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1,[COLOR green]--- SPORTSKI PROGRAMI ---[/COLOR]
+skip
+ 
+ 
+#EXTINF:0,Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+ 
+#EXTINF:0,SPORTSKA TV
+http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Sport TV 1 (SLO)
+http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:0,Sport TV 2 (SLO)
+http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:-1,sport 1 (DSF)
+http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:-1,Sport Klub 1 SLO
+http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:-1,Sport Klub 2 SLO
+http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+#EXTINF:-1,Sport Klub 3 SLO
+http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+ 
+ 
+ 
+#EXTINF:-1,Eurosport 1 HD DK
+http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8
+#EXTINF:-1,Eurosport 2 HD DK
+http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8
+ 
+ 
+#EXTINF:-1,ARENA SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1,SUPERSPORTS
+http://46.105.161.243:8085/lighd
+#EXTINF:-1,alpha 1 sport
+http://109.236.91.150:8080/A1Sport/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+ 
+#EXTINF:-1, tvg-id="501" tvg-name="Da Vinci Learning" tvg-logo="http://www.davincimedia.tv/sites/all/themes/davincimedia/images/Kids%20Logo-Yellow.png", DaVinci Learning
+http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)"
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/a1_balkan.png" tvg-id="A1 Balkan" tvg-name="A1 Balkan" group-title="Muzički kanali",,A1 Balkan
+http://109.236.91.150:8080/a1balkantvmahirtvyahsat/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/a1_exclusive.png" tvg-id="A1 Exclusive" tvg-name="A1 Exclusive" group-title="Zabavni kanali",,A1 Exclusive
+http://109.236.91.150:8080/a1skandinavijaHDpro/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/a1_sports.png" tvg-id="a1 Sports" tvg-name="a1 Sports" group-title="Sportski kanali",,a1 Sports
+http://109.236.91.150:8080/A1Sport/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/aljazeera.png" tvg-id="Al Jazeera Balkans" tvg-name="Al Jazeera Balkans" group-title="Domaći kanali",,Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/animal_planet.png" tvg-id="Animal Planet Puppies" tvg-name="Animal Planet Puppies" group-title="Dokumentarni kanali",,Animal Planet Puppies
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/arenasport_5.png" tvg-id="Arena Sport 5" tvg-name="Arena Sport 5" group-title="Sportski kanali",,Arena Sport 5
+http://185.59.220.134/arena5/mpegts|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/b92.png" tvg-id="B92" tvg-name="B92" group-title="Domaći kanali",,B92
+http://5.32.183.178:4080/udp/224.0.0.100:1235?auth=mojtv
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/svt_barnkanalen.png" tvg-id="Barnkanalen" tvg-name="Barnkanalen" group-title="Dječiji kanali",,Barnkanalen
+https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/bein.png" tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" group-title="Sportski kanali",,Bein Sports 4
+http://81.230.200.187:1967/live/Kodi/XBMC/260.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/belleamie.png" tvg-id="Belle Amie" tvg-name="Belle Amie" group-title="Regionalni kanali",,Belle Amie
+rtmp://92.60.234.98/live/myStream live=1
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/bn_music.png" tvg-id="BN Music" tvg-name="BN Music" group-title="Muzički kanali",,BN Music
+https://www.youtube.com/watch?v=T_b3r2azQb0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/bn.png" tvg-id="BN" tvg-name="BN Televizija" group-title="Domaći kanali",,BN Televizija
+http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/bosnatv.png" tvg-id="Bosna TV1" tvg-name="Bosna TV1" group-title="Zabavni kanali",,Bosna TV1
+http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/cnn.png" tvg-id="CNN" tvg-name="CNN" group-title="Strani kanali",,CNN
+https://www.youtube.com/watch?v=ykNrAp9WESg
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/discovery_channel.png" tvg-id="Discovery Channel" tvg-name="Discovery Channel SE" group-title="Dokumentarni kanali",,Discovery Channel SE
+http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/djing.png" tvg-id="Djing HD" tvg-name="Djing HD" group-title="Muzički kanali",,Djing HD
+http://cdn.djing.com/tv/05.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dream_turk.png" tvg-id="Dream Turk" tvg-name="Dream Turk" group-title="Muzički kanali",,Dream Turk
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dream_tv.png" tvg-id="Dream TV" tvg-name="Dream TV" group-title="Muzički kanali",,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dstv.png" tvg-id="DSTV" tvg-name="DSTV" group-title="Muzički kanali",,DSTV
+rtmp://46.249.95.140:80/live/livestream live=1
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dubai_sports.png" tvg-id="Dubai Sports" tvg-name="Dubai Sports" group-title="Sportski kanali",,Dubai Sports
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dxtv.png" tvg-id="DXTV" tvg-name="DXTV" group-title="Sportski kanali",,DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/euronews.png" tvg-id="Euronews" tvg-name="Euronews" group-title="Strani kanali",,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/eurosport_1.png" tvg-id="Eurosport 1" tvg-name="Eurosport 1" group-title="Sportski kanali",,Eurosport 1
+http://81.7.13.162/hls/ss4/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/eurosport_1.png" tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 UK" group-title="Sportski kanali",,Eurosport 1 UK
+http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/eurosport_2.png" tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="Sportski kanali",,Eurosport 2
+http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/eurosport.png" tvg-id="Eurosport News" tvg-name="Eurosport News" group-title="Sportski kanali",,Eurosport News
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/eurosport.png" tvg-id="Eurosport.no" tvg-name="Eurosport NO" group-title="Sportski kanali",,Eurosport NO
+http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="H1" tvg-name="H1" group-title="Filmski kanali",,H1
+rtmp://hugo-iptv.zapto.org/live//h1
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/idjtv.png" tvg-id="iDJ TV" tvg-name="iDJ TV" group-title="Muzički kanali",,iDJ TV
+https://www.youtube.com/watch?v=1IKW1YMmqDc
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/izvorna.png" tvg-id="Izvorna TV" tvg-name="Izvorna TV" group-title="Muzički kanali",,Izvorna TV
+https://www.youtube.com/watch?v=l17a_TaKRsQ
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kanal_11.png" tvg-id="Kanal 11" tvg-name="Kanal 11" group-title="Strani kanali",,Kanal 11
+http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kanal_5.png" tvg-id="Kanal 5 SE" tvg-name="Kanal 5 SE" group-title="Strani kanali",,Kanal 5 SE
+http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kanal_9.png" tvg-id="Kanal 9" tvg-name="Kanal 9" group-title="Strani kanali",,Kanal 9
+http://dnordichlslive07-i.akamaihd.net/hls/live/223857/K9SWHD/master.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kcn_1.png" tvg-id="KCN 1" tvg-name="KCN 1" group-title="Domaći kanali",,KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kcn_2.png" tvg-id="KCN 2" tvg-name="KCN 2" group-title="Muzički kanali",,KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/kcn_3.png" tvg-id="KCN 3" tvg-name="KCN 3" group-title="Zabavni kanali",,KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="KiKa" tvg-name="KiKa" group-title="Dječiji kanali",,KiKa
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Kunskapskanalen" tvg-name="Kunskapskanalen" group-title="Strani kanali",,Kunskapskanalen
+https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="MostVideo HD" tvg-name="MostVideo HD" group-title="Sportski kanali",,MostVideo HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/mtv.png" tvg-id="MTV Norge" tvg-name="MTV Norge" group-title="Muzički kanali",,MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/parovi.png" tvg-id="Parovi 1" tvg-name="Parovi 1" group-title="Zabavni kanali",,Parovi 1
+https://www.youtube.com/watch?v=YM3MblrjOmc
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/pi_kanal.png" tvg-id="PI Kanal" tvg-name="PI Kanal" group-title="Regionalni kanali",,PI Kanal
+http://vps.oneit.rs/picanal/m3u8/stream_ep_copy.m3u8?v=1429991488|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/puls.png" tvg-id="Puls" tvg-name="Puls" group-title="Domaći kanali",,Puls
+http://stream2.itprishtina.com:80/puls1/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rai_1.png" tvg-id="Rai 1 IT" tvg-name="Rai 1" group-title="Strani kanali",,Rai 1
+http://originstream14.rai.it/italy/smil:rai1.smil/chunklist_b1200000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Rai Movie" tvg-name="Rai Movie" group-title="Filmski kanali",,Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Rai Yoyo" tvg-name="Rai Yoyo" group-title="Dječiji kanali",,Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_800_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtcg_sat.png" tvg-id="RTCG Sat" tvg-name="RTCG Sat" group-title="Regionalni kanali",,RTCG Sat
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtrs_plus.png" tvg-id="RTRS Plus" tvg-name="RTRS Plus" group-title="Domaći kanali",,RTRS Plus
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="RTS 1" tvg-name="RTS 1" group-title="Domaći kanali",,RTS 1
+http://185.59.220.134/rts1/mpegts|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rts_sat.png" tvg-id="RTS Sat" tvg-name="RTS Sat" group-title="Regionalni kanali",,RTS Sat
+http://rtssat2.videostreaming.rs:1935/rtssat/rtssat.2.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtv_1.png" tvg-id="RTV 1" tvg-name="RTV 1" group-title="Regionalni kanali",,RTV 1
+mmsh://212.200.255.151/rtv1?MSWMExt=.asf
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtv_2.png" tvg-id="RTV 2" tvg-name="RTV 2" group-title="Regionalni kanali",,RTV 2
+mmsh://212.200.255.151/rtv2?MSWMExt=.asf
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtv_mlava.png" tvg-id="RTV Mlava" tvg-name="RTV Mlava" group-title="Regionalni kanali",,RTV Mlava
+http://109.72.63.194:5900|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtv_novipazar.png" tvg-id="RTV Novi Pazar" tvg-name="RTV Novi Pazar" group-title="Regionalni kanali",,RTV Novi Pazar
+http://185.20.36.201:8080/stream?sp=partners&channel=rtvnovipazar&stream=1mb&b=6&player=m3u8&u=rtvnovipazar&p=RTVN0v1Pazar|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtv_slon.png" tvg-id="RTV Slon" tvg-name="RTV Slon" group-title="Regionalni kanali",,RTV Slon
+http://31.47.8.10:8081|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/rtd.png" tvg-id="Russia Today Documentary" tvg-name="Russia Today Documentary" group-title="Dokumentarni kanali",,Russia Today Documentary
+http://rt.ashttp6.visionip.tv/live/RT_Doc-HD/playlist.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/sandzaktv.png" tvg-id="Sandžak TV" tvg-name="Sandžak TV" group-title="Regionalni kanali",,Sandžak TV
+http://77.46.147.94:9250|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/slam.png" tvg-id="SLAM!" tvg-name="SLAM!" group-title="Muzički kanali",,SLAM!
+http://hls2.slamfm.nl/content/slamtv/slamtv_0.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/smileofachild.png" tvg-id="Smile of a Child" tvg-name="Smile of a Child" group-title="Dječiji kanali",,Smile of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/sport_1_ukr.png" tvg-id="Sport TV1 UKR" tvg-name="Sport TV1 UKR" group-title="Sportski kanali",,Sport TV1 UKR
+http://178.172.245.155:8121/sport1|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Srpska Naučna TV" tvg-name="Srpska Naučna TV" group-title="Dokumentarni kanali",,Srpska Naučna TV
+https://www.youtube.com/watch?v=qM4C98ghuto
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/supersport.png" tvg-id="Super Sport 1" tvg-name="Super Sport 1" group-title="Sportski kanali",,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/supersport.png" tvg-id="Super Sport 2" tvg-name="Super Sport 2" group-title="Sportski kanali",,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/supersport.png" tvg-id="Super Sport 3" tvg-name="Super Sport 3" group-title="Sportski kanali",,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Supersports" tvg-name="Supersports" group-title="Sportski kanali",,Supersports
+http://46.105.161.243:8085/lighd|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/svt_1.png" tvg-id="SVT 1" tvg-name="SVT 1" group-title="Strani kanali",,SVT 1
+https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/svt_2.png" tvg-id="SVT 2" tvg-name="SVT 2" group-title="Strani kanali",,SVT 2
+https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="Tatabrada TV" tvg-name="Tatabrada TV" group-title="Regionalni kanali",,Tatabrada TV
+http://tatabrada.tv:8080/tatabrada/index.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/telegraf.png" tvg-id="Telegraf Now" tvg-name="Telegraf Now" group-title="Zabavni kanali",,Telegraf Now
+http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/televizija_5.png" tvg-id="Televizija 5" tvg-name="Televizija 5" group-title="Dokumentarni kanali",,Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tlc.png" tvg-id="TLC" tvg-name="TLC" group-title="Dokumentarni kanali",,TLC
+http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/topsound.png" tvg-id="TOP Sound" tvg-name="TOP Sound" group-title="Muzički kanali",,TOP Sound
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/trt_1.png" tvg-id="TRT 1 HD" tvg-name="TRT 1 HD" group-title="Strani kanali",,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="TRT Spor" tvg-name="TRT Spor" group-title="Sportski kanali",,TRT Spor
+http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="TRT World" tvg-name="TRT World" group-title="Strani kanali",,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_as_sabac.png" tvg-id="TV AS Šabac" tvg-name="TV AS Šabac" group-title="Regionalni kanali",,TV AS Šabac
+http://as.multimediaiptv.net:8080/as/assabac/index.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tvduga.png" tvg-id="TV Duga" tvg-name="TV Duga" group-title="Muzički kanali",,TV Duga
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_han.png" tvg-id="TV Han" tvg-name="TV Han" group-title="Regionalni kanali",,TV Han
+rtmp://slo2.iptv-max.com:1935/live/tvhan live=1
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_hram.png" tvg-id="TV Hram" tvg-name="TV Hram" group-title="Dokumentarni kanali",,TV Hram
+http://178.253.194.75:1935/live/hram.stream/.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tvkladovo.png" tvg-id="TV Kladovo" tvg-name="TV Kladovo" group-title="Regionalni kanali",,TV Kladovo
+http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_leskovac.png" tvg-id="TV Leskovac" tvg-name="TV Leskovac" group-title="Regionalni kanali",,TV Leskovac
+http://de2-2.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_nova_mkd.png" tvg-id="TV Nova MKD" tvg-name="TV Nova MKD" group-title="Regionalni kanali",,TV Nova MKD
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/chunklist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_s1.png" tvg-id="TV S1" tvg-name="TV S1" group-title="Regionalni kanali",,TV S1
+rtmp://91.148.117.134:1935/radios/radiosweb.stream live=1
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_subotica.png" tvg-id="TV Subotica" tvg-name="TV Subotica" group-title="Regionalni kanali",,TV Subotica
+http://185.20.36.201:8080/stream?sp=partners&channel=citytvext&stream=1mb&b=6&player=m3u8&u=citytv&p=c1tysubotic@|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv2_sport_dk.png" tvg-id="TV2 Sport" tvg-name="TV2 Sport" group-title="Sportski kanali",,TV2 Sport
+http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="TV4Nyheterna " tvg-name="TV4Nyheterna " group-title="Strani kanali",,TV4Nyheterna
+http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/viasat_history.png" tvg-id="Viasat History" tvg-name="Viasat History" group-title="Dokumentarni kanali",,Viasat History
+http://5.32.183.178:4080/udp/224.0.0.130:1235?auth=mojtv
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="VIP HD" tvg-name="VIP HD" group-title="Regionalni kanali",,VIP HD
+rtmp://46.105.209.61/live/live
+#EXTINF:0 tvg-logo="http://logo.exyu.xyz/logo.png" tvg-id="VTV Valjevo" tvg-name="VTV Valjevo" group-title="Regionalni kanali",,VTV Valjevo
+rtmp://www.vtv.rs/live/lokal live=1
+ 
+#EXTINF:0,BN Music 
+http://178.199.139.3:7777/play/a008
+#EXTINF:0,HAYAT FOLK   
+http://178.199.139.3:7777/play/a004
+#EXTINF:0,HAYAT MUSIC
+http://178.199.139.3:7777/play/a006
+#EXTINF:0,Deejay.hr
+rtmp://46.101.135.209/tv/live
+#EXTINF:0,RTRS plus
+http://31.209.18.32:8000/play/a010
+#EXTINF:0,OBN
+http://31.209.18.32:8000/play/a00c
+#EXTINF:0,24 Kitchen
+http://31.209.18.32:8000/play/a01r
+#EXTINF:0,HAYAT FOLK
+http://31.209.18.32:8000/play/a00x
+#EXTINF:0,HAYAT MUSIC
+http://31.209.18.32:8000/play/a00z
+#EXTINF:0,HRT-TV3
+http://31.209.18.32:8000/play/a01k
+#EXTINF:0,HAYAT HD
+http://31.209.18.32:8000/play/a00v
+#EXTINF:0,HAYATOVCI
+http://31.209.18.32:8000/play/a011
+#EXTINF:0,KCN
+http://31.209.18.32:8000/play/a01b
+#EXTINF:0,HRT-TV4
+http://31.209.18.32:8000/play/a01l
+#EXTINF:0,RTRS
+http://31.209.18.32:8000/play/a014
+#EXTINF:0,BN BIH
+http://31.209.18.32:8000/play/a013
+#EXTINF:0,PRO TV Int
+http://31.209.18.32:8000/play/a00e
+#EXTINF:0,BN Music
+http://31.209.18.32:8000/play/a00y
+#EXTINF:0,BN SAT
+http://31.209.18.32:8000/play/a012
+#EXTINF:0,Stinet
+http://31.209.18.32:8000/play/a025
+#EXTINF:0,HRT-TV1
+http://31.209.18.32:8000/play/a01i
+#EXTINF:0,Disney Channel
+http://31.209.18.32:8000/play/a01s
+#EXTINF:0,HRT-TV2
+http://31.209.18.32:8000/play/a01j
+#EXTINF:0,Grand
+http://31.209.18.32:8000/play/a01w
+#EXTINF:0,Posavina TV
+http://31.209.18.32:8000/play/a00b
+#EXTINF:0,OTV Valentino
+http://31.209.18.32:8000/play/a018
+#EXTINF:0,EXP histori
+http://31.209.18.32:8000/play/a02a
+#EXTINF:0,HAYAT PLUS
+http://31.209.18.32:8000/play/a00w
+#EXTINF:0,Svet Plus
+http://31.209.18.32:8000/play/a01a
+#EXTINF:0,Bang Bang
+http://31.209.18.32:8000/play/a026
+#EXTINF:0,SS-6 HD
+http://31.209.18.32:8000/play/a028
+#EXTINF:0,Atlas TV
+
+    http://31.209.18.32:8000/play/a00d
